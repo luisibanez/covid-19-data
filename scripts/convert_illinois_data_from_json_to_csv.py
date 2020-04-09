@@ -59,3 +59,27 @@ try:
 except IOError:
     print("I/O error")
 
+
+
+#
+#  Export the number of confirmed cases by ZIP per age group
+#
+
+csv_filename = '../data/United_States/Illinois/confirmed_cases_by_zip_per_age.csv'
+
+age_columns = ['Zip', 'Unknown', '<20', '20-29', '30-39', '40-49', '50-59', '60-69', '70-79', '80+']
+
+try:
+    with open(csv_filename, 'w') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=age_columns)
+        writer.writeheader()
+        for zip_data in zip_values:
+            age_data = zip_data['demographics']['age']
+            age_row = { 'Zip': zip_data['zip'] }
+            for age_entry in age_data:
+                age_row[age_entry['age_group']] = age_entry['count']
+            writer.writerow(age_row)
+
+except IOError:
+    print("I/O error")
+
