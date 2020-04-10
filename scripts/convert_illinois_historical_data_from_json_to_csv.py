@@ -93,3 +93,79 @@ try:
 except IOError:
     print("I/O error")
 
+
+#
+#  Export the state characteristics by age
+#
+
+csv_filename = '../data/United_States/Illinois/characteristics_by_age.csv'
+
+characteristics_by_age = covid_history['demographics']['age']
+
+age_columns = ['last_update', 'age_group', 'count', 'deaths']
+
+try:
+    with open(csv_filename, 'w') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=age_columns)
+        writer.writeheader()
+        age_row = { 'last_update' : last_update_string }
+        for age_group in characteristics_by_age:
+            age_row['age_group'] = age_group['age_group']
+            age_row['count'] = age_group['count']
+            age_row['deaths'] = age_group['deaths']
+            writer.writerow(age_row)
+
+except IOError:
+    print("I/O error")
+
+
+#
+#  Export the state characteristics by gender
+#
+
+csv_filename = '../data/United_States/Illinois/characteristics_by_gender.csv'
+
+characteristics_by_gender = covid_history['demographics']['gender']
+
+gender_columns = ['last_update', 'description', 'count', 'deaths']
+
+try:
+    with open(csv_filename, 'w') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=gender_columns)
+        writer.writeheader()
+        gender_row = { 'last_update' : last_update_string }
+        for gender in characteristics_by_gender:
+            gender_row['description'] = gender['description']
+            gender_row['count'] = gender['count']
+            gender_row['deaths'] = gender['deaths']
+            writer.writerow(gender_row)
+
+except IOError:
+    print("I/O error")
+
+
+
+#
+#  Export the state characteristics by race
+#
+
+csv_filename = '../data/United_States/Illinois/characteristics_by_race.csv'
+
+characteristics_by_race = covid_history['demographics']['race']
+
+race_columns = ['last_update', 'description', 'count', 'deaths']
+
+try:
+    with open(csv_filename, 'w') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=race_columns)
+        writer.writeheader()
+        race_row = { 'last_update' : last_update_string }
+        for race in characteristics_by_race:
+            race_row['description'] = race['description']
+            race_row['count'] = race['count']
+            race_row['deaths'] = race['deaths']
+            writer.writerow(race_row)
+
+except IOError:
+    print("I/O error")
+
