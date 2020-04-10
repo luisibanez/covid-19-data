@@ -83,3 +83,28 @@ try:
 except IOError:
     print("I/O error")
 
+
+
+#
+#  Export the number of confirmed cases by ZIP per race
+#
+
+csv_filename = '../data/United_States/Illinois/confirmed_cases_by_zip_per_race.csv'
+
+race_columns = ['Zip', 'White', 'Black', 'Left Blank', 'Other', 'Asian', 'Hispanic', 'NH/PI*', 'AI/AN**']
+
+
+try:
+    with open(csv_filename, 'w') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=race_columns)
+        writer.writeheader()
+        for zip_data in zip_values:
+            race_data = zip_data['demographics']['race']
+            race_row = { 'Zip': zip_data['zip'] }
+            for race_entry in race_data:
+                race_row[race_entry['description']] = race_entry['count']
+            writer.writerow(race_row)
+
+except IOError:
+    print("I/O error")
+
