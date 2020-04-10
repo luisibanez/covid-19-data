@@ -1,0 +1,7645 @@
+{
+  "LastUpdateDate": {
+    "year": 2020,
+    "month": 4,
+    "day": 9
+  },
+  "county_demographics": [
+    {
+      "County": "Calhoun",
+      "confirmed_cases": 1,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Henry",
+      "confirmed_cases": 18,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 7
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 9
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 7
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 8
+          },
+          {
+            "description": "Female",
+            "count": 10
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Winnebago",
+      "confirmed_cases": 66,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 11
+          },
+          {
+            "age_group": "30-39",
+            "count": 10
+          },
+          {
+            "age_group": "40-49",
+            "count": 12
+          },
+          {
+            "age_group": "50-59",
+            "count": 14
+          },
+          {
+            "age_group": "60-69",
+            "count": 7
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 34
+          },
+          {
+            "description": "Black",
+            "count": 13
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 14
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 31
+          },
+          {
+            "description": "Female",
+            "count": 35
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Lee",
+      "confirmed_cases": 8,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 6
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Mercer",
+      "confirmed_cases": 2,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Kane",
+      "confirmed_cases": 317,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 39
+          },
+          {
+            "age_group": "30-39",
+            "count": 40
+          },
+          {
+            "age_group": "40-49",
+            "count": 56
+          },
+          {
+            "age_group": "50-59",
+            "count": 83
+          },
+          {
+            "age_group": "60-69",
+            "count": 38
+          },
+          {
+            "age_group": "70-79",
+            "count": 28
+          },
+          {
+            "age_group": "80+",
+            "count": 25
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 127
+          },
+          {
+            "description": "Black",
+            "count": 37
+          },
+          {
+            "description": "Left Blank",
+            "count": 38
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 14
+          },
+          {
+            "description": "Hispanic",
+            "count": 90
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 168
+          },
+          {
+            "description": "Female",
+            "count": 140
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Christian",
+      "confirmed_cases": 23,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 7
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 12
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 7
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 14
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Mason",
+      "confirmed_cases": 3,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Jefferson",
+      "confirmed_cases": 2,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Mclean",
+      "confirmed_cases": 69,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 10
+          },
+          {
+            "age_group": "30-39",
+            "count": 6
+          },
+          {
+            "age_group": "40-49",
+            "count": 10
+          },
+          {
+            "age_group": "50-59",
+            "count": 11
+          },
+          {
+            "age_group": "60-69",
+            "count": 15
+          },
+          {
+            "age_group": "70-79",
+            "count": 12
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 17
+          },
+          {
+            "description": "Black",
+            "count": 12
+          },
+          {
+            "description": "Left Blank",
+            "count": 33
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 7
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 24
+          },
+          {
+            "description": "Female",
+            "count": 39
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 6
+          }
+        ]
+      }
+    },
+    {
+      "County": "Pulaski",
+      "confirmed_cases": 4,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Champaign",
+      "confirmed_cases": 71,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 8
+          },
+          {
+            "age_group": "30-39",
+            "count": 14
+          },
+          {
+            "age_group": "40-49",
+            "count": 12
+          },
+          {
+            "age_group": "50-59",
+            "count": 16
+          },
+          {
+            "age_group": "60-69",
+            "count": 9
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 38
+          },
+          {
+            "description": "Black",
+            "count": 13
+          },
+          {
+            "description": "Left Blank",
+            "count": 8
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 29
+          },
+          {
+            "description": "Female",
+            "count": 41
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Unassigned",
+      "confirmed_cases": 36,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 10
+          },
+          {
+            "age_group": "50-59",
+            "count": 12
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 8
+          },
+          {
+            "description": "Black",
+            "count": 6
+          },
+          {
+            "description": "Left Blank",
+            "count": 14
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 12
+          },
+          {
+            "description": "Female",
+            "count": 14
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 9
+          }
+        ]
+      }
+    },
+    {
+      "County": "Jasper",
+      "confirmed_cases": 3,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Piatt",
+      "confirmed_cases": 5,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Effingham",
+      "confirmed_cases": 3,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Lasalle",
+      "confirmed_cases": 17,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 9
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 13
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 11
+          },
+          {
+            "description": "Female",
+            "count": 6
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Stephenson",
+      "confirmed_cases": 7,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Macoupin",
+      "confirmed_cases": 12,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 6
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 7
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Grundy",
+      "confirmed_cases": 13,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 6
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 6
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 7
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 7
+          },
+          {
+            "description": "Female",
+            "count": 6
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Clinton",
+      "confirmed_cases": 31,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 9
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 11
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 7
+          },
+          {
+            "description": "Female",
+            "count": 9
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Douglas",
+      "confirmed_cases": 11,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 11
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 6
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Franklin",
+      "confirmed_cases": 2,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Gallatin",
+      "confirmed_cases": 1,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Tazewell",
+      "confirmed_cases": 17,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 9
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 8
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 13
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Massac",
+      "confirmed_cases": 2,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Dekalb",
+      "confirmed_cases": 32,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 7
+          },
+          {
+            "age_group": "40-49",
+            "count": 10
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 14
+          },
+          {
+            "description": "Black",
+            "count": 8
+          },
+          {
+            "description": "Left Blank",
+            "count": 10
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 12
+          },
+          {
+            "description": "Female",
+            "count": 20
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Morgan",
+      "confirmed_cases": 10,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 6
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Shelby",
+      "confirmed_cases": 3,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Clark",
+      "confirmed_cases": 3,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Williamson",
+      "confirmed_cases": 10,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 8
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Will",
+      "confirmed_cases": 1022,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 14
+          },
+          {
+            "age_group": "20-29",
+            "count": 83
+          },
+          {
+            "age_group": "30-39",
+            "count": 131
+          },
+          {
+            "age_group": "40-49",
+            "count": 221
+          },
+          {
+            "age_group": "50-59",
+            "count": 216
+          },
+          {
+            "age_group": "60-69",
+            "count": 150
+          },
+          {
+            "age_group": "70-79",
+            "count": 90
+          },
+          {
+            "age_group": "80+",
+            "count": 75
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 248
+          },
+          {
+            "description": "Black",
+            "count": 205
+          },
+          {
+            "description": "Left Blank",
+            "count": 375
+          },
+          {
+            "description": "Other",
+            "count": 34
+          },
+          {
+            "description": "Asian",
+            "count": 32
+          },
+          {
+            "description": "Hispanic",
+            "count": 84
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 492
+          },
+          {
+            "description": "Female",
+            "count": 487
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Monroe",
+      "confirmed_cases": 34,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 7
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 9
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 19
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 8
+          },
+          {
+            "description": "Female",
+            "count": 17
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "St. Clair",
+      "confirmed_cases": 144,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 6
+          },
+          {
+            "age_group": "30-39",
+            "count": 26
+          },
+          {
+            "age_group": "40-49",
+            "count": 35
+          },
+          {
+            "age_group": "50-59",
+            "count": 31
+          },
+          {
+            "age_group": "60-69",
+            "count": 18
+          },
+          {
+            "age_group": "70-79",
+            "count": 16
+          },
+          {
+            "age_group": "80+",
+            "count": 9
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 32
+          },
+          {
+            "description": "Black",
+            "count": 47
+          },
+          {
+            "description": "Left Blank",
+            "count": 62
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 52
+          },
+          {
+            "description": "Female",
+            "count": 84
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 7
+          }
+        ]
+      }
+    },
+    {
+      "County": "Sangamon",
+      "confirmed_cases": 37,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 7
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 8
+          },
+          {
+            "age_group": "50-59",
+            "count": 7
+          },
+          {
+            "age_group": "60-69",
+            "count": 6
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 22
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 11
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 11
+          },
+          {
+            "description": "Female",
+            "count": 26
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Schuyler",
+      "confirmed_cases": 1,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Randolph",
+      "confirmed_cases": 34,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 6
+          },
+          {
+            "age_group": "40-49",
+            "count": 8
+          },
+          {
+            "age_group": "50-59",
+            "count": 6
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 27
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 7
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 14
+          },
+          {
+            "description": "Female",
+            "count": 19
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Jackson",
+      "confirmed_cases": 26,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 7
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 6
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 10
+          },
+          {
+            "description": "Black",
+            "count": 7
+          },
+          {
+            "description": "Left Blank",
+            "count": 7
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 10
+          },
+          {
+            "description": "Female",
+            "count": 14
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Kankakee",
+      "confirmed_cases": 156,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 12
+          },
+          {
+            "age_group": "30-39",
+            "count": 16
+          },
+          {
+            "age_group": "40-49",
+            "count": 22
+          },
+          {
+            "age_group": "50-59",
+            "count": 29
+          },
+          {
+            "age_group": "60-69",
+            "count": 22
+          },
+          {
+            "age_group": "70-79",
+            "count": 10
+          },
+          {
+            "age_group": "80+",
+            "count": 18
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 48
+          },
+          {
+            "description": "Black",
+            "count": 23
+          },
+          {
+            "description": "Left Blank",
+            "count": 55
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 64
+          },
+          {
+            "description": "Female",
+            "count": 65
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Logan",
+      "confirmed_cases": 2,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Woodford",
+      "confirmed_cases": 7,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 7
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Washington",
+      "confirmed_cases": 2,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Jersey",
+      "confirmed_cases": 5,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Kendall",
+      "confirmed_cases": 86,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 10
+          },
+          {
+            "age_group": "30-39",
+            "count": 14
+          },
+          {
+            "age_group": "40-49",
+            "count": 19
+          },
+          {
+            "age_group": "50-59",
+            "count": 24
+          },
+          {
+            "age_group": "60-69",
+            "count": 12
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 38
+          },
+          {
+            "description": "Black",
+            "count": 18
+          },
+          {
+            "description": "Left Blank",
+            "count": 15
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 11
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 37
+          },
+          {
+            "description": "Female",
+            "count": 47
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Fayette",
+      "confirmed_cases": 7,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Lawrence",
+      "confirmed_cases": 2,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Cumberland",
+      "confirmed_cases": 2,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Macon",
+      "confirmed_cases": 15,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 6
+          },
+          {
+            "description": "Female",
+            "count": 9
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Rock Island",
+      "confirmed_cases": 73,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 9
+          },
+          {
+            "age_group": "30-39",
+            "count": 12
+          },
+          {
+            "age_group": "40-49",
+            "count": 10
+          },
+          {
+            "age_group": "50-59",
+            "count": 18
+          },
+          {
+            "age_group": "60-69",
+            "count": 13
+          },
+          {
+            "age_group": "70-79",
+            "count": 8
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 24
+          },
+          {
+            "description": "Black",
+            "count": 9
+          },
+          {
+            "description": "Left Blank",
+            "count": 27
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 12
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 42
+          },
+          {
+            "description": "Female",
+            "count": 29
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Knox",
+      "confirmed_cases": 1,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Wabash",
+      "confirmed_cases": 2,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Vermilion",
+      "confirmed_cases": 5,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Iroquois",
+      "confirmed_cases": 7,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 6
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 6
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Crawford",
+      "confirmed_cases": 4,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Lake",
+      "confirmed_cases": 1124,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 39
+          },
+          {
+            "age_group": "20-29",
+            "count": 150
+          },
+          {
+            "age_group": "30-39",
+            "count": 131
+          },
+          {
+            "age_group": "40-49",
+            "count": 188
+          },
+          {
+            "age_group": "50-59",
+            "count": 227
+          },
+          {
+            "age_group": "60-69",
+            "count": 161
+          },
+          {
+            "age_group": "70-79",
+            "count": 89
+          },
+          {
+            "age_group": "80+",
+            "count": 75
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 391
+          },
+          {
+            "description": "Black",
+            "count": 116
+          },
+          {
+            "description": "Left Blank",
+            "count": 246
+          },
+          {
+            "description": "Other",
+            "count": 67
+          },
+          {
+            "description": "Asian",
+            "count": 35
+          },
+          {
+            "description": "Hispanic",
+            "count": 203
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 554
+          },
+          {
+            "description": "Female",
+            "count": 489
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 18
+          }
+        ]
+      }
+    },
+    {
+      "County": "Marshall",
+      "confirmed_cases": 1,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Cook",
+      "confirmed_cases": 4791,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 77
+          },
+          {
+            "age_group": "20-29",
+            "count": 485
+          },
+          {
+            "age_group": "30-39",
+            "count": 622
+          },
+          {
+            "age_group": "40-49",
+            "count": 828
+          },
+          {
+            "age_group": "50-59",
+            "count": 909
+          },
+          {
+            "age_group": "60-69",
+            "count": 793
+          },
+          {
+            "age_group": "70-79",
+            "count": 479
+          },
+          {
+            "age_group": "80+",
+            "count": 336
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 1333
+          },
+          {
+            "description": "Black",
+            "count": 1316
+          },
+          {
+            "description": "Left Blank",
+            "count": 982
+          },
+          {
+            "description": "Other",
+            "count": 308
+          },
+          {
+            "description": "Asian",
+            "count": 201
+          },
+          {
+            "description": "Hispanic",
+            "count": 377
+          },
+          {
+            "description": "NH/PI*",
+            "count": 7
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 2122
+          },
+          {
+            "description": "Female",
+            "count": 2367
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 40
+          }
+        ]
+      }
+    },
+    {
+      "County": "Moultrie",
+      "confirmed_cases": 2,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Peoria",
+      "confirmed_cases": 15,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 10
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 9
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Livingston",
+      "confirmed_cases": 15,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 10
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 6
+          },
+          {
+            "description": "Female",
+            "count": 9
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Ogle",
+      "confirmed_cases": 14,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 12
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 8
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Jodaviess",
+      "confirmed_cases": 9,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 7
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Saline",
+      "confirmed_cases": 3,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Montgomery",
+      "confirmed_cases": 6,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Bureau",
+      "confirmed_cases": 4,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Madison",
+      "confirmed_cases": 89,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 6
+          },
+          {
+            "age_group": "30-39",
+            "count": 18
+          },
+          {
+            "age_group": "40-49",
+            "count": 19
+          },
+          {
+            "age_group": "50-59",
+            "count": 17
+          },
+          {
+            "age_group": "60-69",
+            "count": 13
+          },
+          {
+            "age_group": "70-79",
+            "count": 10
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 36
+          },
+          {
+            "description": "Black",
+            "count": 16
+          },
+          {
+            "description": "Left Blank",
+            "count": 35
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 38
+          },
+          {
+            "description": "Female",
+            "count": 48
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Marion",
+      "confirmed_cases": 10,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 8
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Whiteside",
+      "confirmed_cases": 24,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 6
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 22
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 12
+          },
+          {
+            "description": "Female",
+            "count": 12
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Carroll",
+      "confirmed_cases": 5,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Hancock",
+      "confirmed_cases": 1,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Bond",
+      "confirmed_cases": 4,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Stark",
+      "confirmed_cases": 1,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Dupage",
+      "confirmed_cases": 942,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 11
+          },
+          {
+            "age_group": "20-29",
+            "count": 109
+          },
+          {
+            "age_group": "30-39",
+            "count": 129
+          },
+          {
+            "age_group": "40-49",
+            "count": 145
+          },
+          {
+            "age_group": "50-59",
+            "count": 164
+          },
+          {
+            "age_group": "60-69",
+            "count": 159
+          },
+          {
+            "age_group": "70-79",
+            "count": 99
+          },
+          {
+            "age_group": "80+",
+            "count": 99
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 348
+          },
+          {
+            "description": "Black",
+            "count": 75
+          },
+          {
+            "description": "Left Blank",
+            "count": 221
+          },
+          {
+            "description": "Other",
+            "count": 72
+          },
+          {
+            "description": "Asian",
+            "count": 55
+          },
+          {
+            "description": "Hispanic",
+            "count": 142
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 443
+          },
+          {
+            "description": "Female",
+            "count": 469
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Coles",
+      "confirmed_cases": 2,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Ford",
+      "confirmed_cases": 3,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Chicago",
+      "confirmed_cases": 6648,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 110
+          },
+          {
+            "age_group": "20-29",
+            "count": 773
+          },
+          {
+            "age_group": "30-39",
+            "count": 1057
+          },
+          {
+            "age_group": "40-49",
+            "count": 1057
+          },
+          {
+            "age_group": "50-59",
+            "count": 1126
+          },
+          {
+            "age_group": "60-69",
+            "count": 881
+          },
+          {
+            "age_group": "70-79",
+            "count": 599
+          },
+          {
+            "age_group": "80+",
+            "count": 384
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 1016
+          },
+          {
+            "description": "Black",
+            "count": 2157
+          },
+          {
+            "description": "Left Blank",
+            "count": 1615
+          },
+          {
+            "description": "Other",
+            "count": 279
+          },
+          {
+            "description": "Asian",
+            "count": 174
+          },
+          {
+            "description": "Hispanic",
+            "count": 737
+          },
+          {
+            "description": "NH/PI*",
+            "count": 8
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 3035
+          },
+          {
+            "description": "Female",
+            "count": 2865
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 91
+          }
+        ]
+      }
+    },
+    {
+      "County": "Richland",
+      "confirmed_cases": 1,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Boone",
+      "confirmed_cases": 7,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 6
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Mchenry",
+      "confirmed_cases": 198,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 19
+          },
+          {
+            "age_group": "30-39",
+            "count": 19
+          },
+          {
+            "age_group": "40-49",
+            "count": 32
+          },
+          {
+            "age_group": "50-59",
+            "count": 41
+          },
+          {
+            "age_group": "60-69",
+            "count": 34
+          },
+          {
+            "age_group": "70-79",
+            "count": 30
+          },
+          {
+            "age_group": "80+",
+            "count": 18
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 111
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 50
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 20
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 92
+          },
+          {
+            "description": "Female",
+            "count": 102
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Pike",
+      "confirmed_cases": 1,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Menard",
+      "confirmed_cases": 3,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Dewitt",
+      "confirmed_cases": 1,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0
+          },
+          {
+            "description": "Female",
+            "count": 0
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "County": "Adams",
+      "confirmed_cases": 22,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0
+          },
+          {
+            "age_group": "20-29",
+            "count": 0
+          },
+          {
+            "age_group": "30-39",
+            "count": 0
+          },
+          {
+            "age_group": "40-49",
+            "count": 0
+          },
+          {
+            "age_group": "50-59",
+            "count": 0
+          },
+          {
+            "age_group": "60-69",
+            "count": 0
+          },
+          {
+            "age_group": "70-79",
+            "count": 0
+          },
+          {
+            "age_group": "80+",
+            "count": 0
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 9
+          },
+          {
+            "description": "Black",
+            "count": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 11
+          },
+          {
+            "description": "Other",
+            "count": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 11
+          },
+          {
+            "description": "Female",
+            "count": 10
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0
+          }
+        ]
+      }
+    }
+  ]
+}
