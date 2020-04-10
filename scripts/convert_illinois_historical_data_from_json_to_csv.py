@@ -8,7 +8,8 @@ with open('../data/United_States/Illinois/COVIDHistoricalTestResults.json', 'r')
 
 last_update = covid_history['LastUpdateDate']
 
-print('Last Update Date: {}-{}-{}'.format(last_update['year'], last_update['month'], last_update['day']))
+last_update_string = '{}-{}-{}'.format(last_update['year'], last_update['month'], last_update['day'])
+print('Last Update Date: {}'.format(last_update_string))
 
 
 
@@ -62,4 +63,33 @@ try:
 except IOError:
     print("I/O error")
 
+
+
+#
+#  Export the state characteristics by county
+#
+
+csv_filename = '../data/United_States/Illinois/characteristics_by_county.csv'
+
+characteristics_by_county = covid_history['characteristics_by_county']['values']
+
+county_columns = ['County', 'last_update', 'total_tested', 'confirmed_cases', 'deaths', 'negative']
+
+try:
+    with open(csv_filename, 'w') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=county_columns)
+        writer.writeheader()
+        for daily_results in historical_county:
+            county_row = { 'last_update' : last_update_string }
+            county_values = daily_results['values']
+            for value in county_values:
+                county_row['County'] = value['County']
+                county_row['confirmed_cases'] = value['confirmed_cases']
+                county_row['total_tested'] = value['total_tested']
+                county_row['negative'] = value['negative']
+                county_row['deaths'] = value['deaths']
+                writer.writerow(county_row)
+
+except IOError:
+    print("I/O error")
 
