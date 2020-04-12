@@ -43,7 +43,7 @@ csv_filename = '../data/United_States/Illinois/historical_state_testing_results_
 
 historical_county = covid_history['historical_county']['values']
 
-county_columns = ['testDate', 'County', 'total_tested', 'confirmed_cases', 'deaths', 'negative']
+county_columns = ['testDate', 'County', 'total_tested', 'confirmed_cases', 'deaths', 'negative', 'lat', 'lon']
 
 try:
     with open(csv_filename, 'w') as csvfile:
@@ -58,6 +58,14 @@ try:
                 county_row['total_tested'] = value['total_tested']
                 county_row['negative'] = value['negative']
                 county_row['deaths'] = value['deaths']
+                if 'lat' in value:
+                    county_row['lat'] = value['lat']
+                else:
+                    county_row['lat'] = 0.0
+                if 'lon' in value:
+                    county_row['lon'] = value['lon']
+                else:
+                    county_row['lon'] = 0.0
                 writer.writerow(county_row)
 
 except IOError:
@@ -73,22 +81,28 @@ csv_filename = '../data/United_States/Illinois/characteristics_by_county.csv'
 
 characteristics_by_county = covid_history['characteristics_by_county']['values']
 
-county_columns = ['County', 'last_update', 'total_tested', 'confirmed_cases', 'deaths', 'negative']
+county_columns = ['County', 'last_update', 'total_tested', 'confirmed_cases', 'deaths', 'negative', 'lat', 'lon']
 
 try:
     with open(csv_filename, 'w') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=county_columns)
         writer.writeheader()
-        for daily_results in historical_county:
-            county_row = { 'last_update' : last_update_string }
-            county_values = daily_results['values']
-            for value in county_values:
-                county_row['County'] = value['County']
-                county_row['confirmed_cases'] = value['confirmed_cases']
-                county_row['total_tested'] = value['total_tested']
-                county_row['negative'] = value['negative']
-                county_row['deaths'] = value['deaths']
-                writer.writerow(county_row)
+        county_row = { 'last_update' : last_update_string }
+        for county in characteristics_by_county:
+              county_row['County'] = county['County']
+              county_row['confirmed_cases'] = county['confirmed_cases']
+              county_row['total_tested'] = county['total_tested']
+              county_row['negative'] = county['negative']
+              county_row['deaths'] = county['deaths']
+              if 'lat' in county:
+                  county_row['lat'] = county['lat']
+              else:
+                  county_row['lat'] = 0.0
+              if 'lon' in county:
+                  county_row['lon'] = county['lon']
+              else:
+                  county_row['lon'] = 0.0
+              writer.writerow(county_row)
 
 except IOError:
     print("I/O error")
