@@ -2,13 +2,13 @@
   "LastUpdateDate": {
     "year": 2020,
     "month": 4,
-    "day": 13
+    "day": 14
   },
   "county_demographics": [
     {
       "County": "Adams",
-      "confirmed_cases": 26,
-      "total_tested": 951,
+      "confirmed_cases": 27,
+      "total_tested": 964,
       "demographics": {
         "age": [
           {
@@ -19,12 +19,12 @@
           {
             "age_group": "<20",
             "count": 0,
-            "tested": 22
+            "tested": 23
           },
           {
             "age_group": "20-29",
             "count": 6,
-            "tested": 52
+            "tested": 53
           },
           {
             "age_group": "30-39",
@@ -38,8 +38,8 @@
           },
           {
             "age_group": "50-59",
-            "count": 7,
-            "tested": 64
+            "count": 8,
+            "tested": 67
           },
           {
             "age_group": "60-69",
@@ -60,8 +60,8 @@
         "race": [
           {
             "description": "White",
-            "count": 18,
-            "tested": 53
+            "count": 19,
+            "tested": 54
           },
           {
             "description": "Black",
@@ -71,7 +71,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 292
+            "tested": 296
           },
           {
             "description": "Other",
@@ -102,13 +102,13 @@
         "gender": [
           {
             "description": "Male",
-            "count": 14,
-            "tested": 152
+            "count": 15,
+            "tested": 154
           },
           {
             "description": "Female",
             "count": 12,
-            "tested": 200
+            "tested": 203
           },
           {
             "description": "Unknown/Left Blank",
@@ -234,7 +234,7 @@
     {
       "County": "Bond",
       "confirmed_cases": 4,
-      "total_tested": 115,
+      "total_tested": 121,
       "demographics": {
         "age": [
           {
@@ -270,7 +270,7 @@
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 8
+            "tested": 10
           },
           {
             "age_group": "70-79",
@@ -287,7 +287,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 28
+            "tested": 30
           },
           {
             "description": "Black",
@@ -297,7 +297,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 16
+            "tested": 17
           },
           {
             "description": "Other",
@@ -329,12 +329,12 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 20
+            "tested": 22
           },
           {
             "description": "Female",
             "count": 0,
-            "tested": 23
+            "tested": 24
           },
           {
             "description": "Unknown/Left Blank",
@@ -347,7 +347,7 @@
     {
       "County": "Boone",
       "confirmed_cases": 13,
-      "total_tested": 433,
+      "total_tested": 436,
       "demographics": {
         "age": [
           {
@@ -363,7 +363,7 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 8
+            "tested": 9
           },
           {
             "age_group": "30-39",
@@ -447,7 +447,7 @@
           {
             "description": "Female",
             "count": 9,
-            "tested": 99
+            "tested": 100
           },
           {
             "description": "Unknown/Left Blank",
@@ -686,7 +686,7 @@
     {
       "County": "Calhoun",
       "confirmed_cases": 1,
-      "total_tested": 36,
+      "total_tested": 39,
       "demographics": {
         "age": [
           {
@@ -749,7 +749,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 10
+            "tested": 11
           },
           {
             "description": "Other",
@@ -786,7 +786,7 @@
           {
             "description": "Female",
             "count": 0,
-            "tested": 10
+            "tested": 11
           },
           {
             "description": "Unknown/Left Blank",
@@ -912,7 +912,7 @@
     {
       "County": "Cass",
       "confirmed_cases": 0,
-      "total_tested": 121,
+      "total_tested": 124,
       "demographics": {
         "age": [
           {
@@ -975,7 +975,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 26
+            "tested": 27
           },
           {
             "description": "Other",
@@ -1012,7 +1012,7 @@
           {
             "description": "Female",
             "count": 0,
-            "tested": 27
+            "tested": 28
           },
           {
             "description": "Unknown/Left Blank",
@@ -1025,7 +1025,7 @@
     {
       "County": "Champaign",
       "confirmed_cases": 87,
-      "total_tested": 4249,
+      "total_tested": 4261,
       "demographics": {
         "age": [
           {
@@ -1041,12 +1041,12 @@
           {
             "age_group": "20-29",
             "count": 9,
-            "tested": 240
+            "tested": 242
           },
           {
             "age_group": "30-39",
             "count": 16,
-            "tested": 305
+            "tested": 306
           },
           {
             "age_group": "40-49",
@@ -1056,7 +1056,7 @@
           {
             "age_group": "50-59",
             "count": 18,
-            "tested": 268
+            "tested": 269
           },
           {
             "age_group": "60-69",
@@ -1065,13 +1065,13 @@
           },
           {
             "age_group": "70-79",
-            "count": 6,
-            "tested": 113
+            "count": 0,
+            "tested": 112
           },
           {
             "age_group": "80+",
-            "count": 6,
-            "tested": 84
+            "count": 7,
+            "tested": 85
           }
         ],
         "race": [
@@ -1088,7 +1088,7 @@
           {
             "description": "Left Blank",
             "count": 9,
-            "tested": 522
+            "tested": 526
           },
           {
             "description": "Other",
@@ -1119,131 +1119,131 @@
         "gender": [
           {
             "description": "Male",
-            "count": 33,
-            "tested": 558
+            "count": 34,
+            "tested": 559
           },
           {
             "description": "Female",
-            "count": 53,
-            "tested": 990
+            "count": 52,
+            "tested": 992
           },
           {
             "description": "Unknown/Left Blank",
             "count": 0,
-            "tested": 45
+            "tested": 46
           }
         ]
       }
     },
     {
       "County": "Chicago",
-      "confirmed_cases": 9084,
-      "total_tested": 94675,
+      "confirmed_cases": 9616,
+      "total_tested": 99653,
       "demographics": {
         "age": [
           {
             "age_group": "Unknown",
             "count": 0,
-            "tested": 67
+            "tested": 66
           },
           {
             "age_group": "<20",
-            "count": 186,
-            "tested": 1639
+            "count": 216,
+            "tested": 1764
           },
           {
             "age_group": "20-29",
-            "count": 1179,
-            "tested": 6092
+            "count": 1225,
+            "tested": 6389
           },
           {
             "age_group": "30-39",
-            "count": 1578,
-            "tested": 8934
+            "count": 1655,
+            "tested": 9394
           },
           {
             "age_group": "40-49",
-            "count": 1663,
-            "tested": 8017
+            "count": 1746,
+            "tested": 8415
           },
           {
             "age_group": "50-59",
-            "count": 1769,
-            "tested": 8076
+            "count": 1883,
+            "tested": 8544
           },
           {
             "age_group": "60-69",
-            "count": 1308,
-            "tested": 6184
+            "count": 1404,
+            "tested": 6569
           },
           {
             "age_group": "70-79",
-            "count": 838,
-            "tested": 3705
+            "count": 890,
+            "tested": 3940
           },
           {
             "age_group": "80+",
-            "count": 558,
-            "tested": 2294
+            "count": 593,
+            "tested": 2431
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 1353,
-            "tested": 6516
+            "count": 1429,
+            "tested": 6874
           },
           {
             "description": "Black",
-            "count": 3141,
-            "tested": 11259
+            "count": 3314,
+            "tested": 11835
           },
           {
             "description": "Left Blank",
-            "count": 2739,
-            "tested": 20810
+            "count": 2856,
+            "tested": 21959
           },
           {
             "description": "Other",
-            "count": 360,
-            "tested": 2009
+            "count": 380,
+            "tested": 2120
           },
           {
             "description": "Asian",
-            "count": 244,
-            "tested": 957
+            "count": 260,
+            "tested": 1004
           },
           {
             "description": "Hispanic",
-            "count": 1224,
-            "tested": 3376
+            "count": 1354,
+            "tested": 3637
           },
           {
             "description": "NH/PI*",
-            "count": 11,
-            "tested": 33
+            "count": 10,
+            "tested": 34
           },
           {
             "description": "AI/AN**",
-            "count": 12,
-            "tested": 48
+            "count": 13,
+            "tested": 49
           }
         ],
         "gender": [
           {
             "description": "Male",
-            "count": 4562,
-            "tested": 21286
+            "count": 4769,
+            "tested": 22408
           },
           {
             "description": "Female",
-            "count": 4407,
-            "tested": 23260
+            "count": 4654,
+            "tested": 24530
           },
           {
             "description": "Unknown/Left Blank",
-            "count": 115,
-            "tested": 462
+            "count": 193,
+            "tested": 574
           }
         ]
       }
@@ -1251,7 +1251,7 @@
     {
       "County": "Christian",
       "confirmed_cases": 24,
-      "total_tested": 468,
+      "total_tested": 489,
       "demographics": {
         "age": [
           {
@@ -1267,7 +1267,7 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 14
+            "tested": 15
           },
           {
             "age_group": "30-39",
@@ -1282,12 +1282,12 @@
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 29
+            "tested": 31
           },
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 34
+            "tested": 36
           },
           {
             "age_group": "70-79",
@@ -1297,14 +1297,14 @@
           {
             "age_group": "80+",
             "count": 7,
-            "tested": 33
+            "tested": 34
           }
         ],
         "race": [
           {
             "description": "White",
             "count": 17,
-            "tested": 101
+            "tested": 103
           },
           {
             "description": "Black",
@@ -1314,7 +1314,7 @@
           {
             "description": "Left Blank",
             "count": 7,
-            "tested": 81
+            "tested": 86
           },
           {
             "description": "Other",
@@ -1346,12 +1346,12 @@
           {
             "description": "Male",
             "count": 6,
-            "tested": 68
+            "tested": 70
           },
           {
             "description": "Female",
             "count": 18,
-            "tested": 117
+            "tested": 122
           },
           {
             "description": "Unknown/Left Blank",
@@ -1364,7 +1364,7 @@
     {
       "County": "Clark",
       "confirmed_cases": 4,
-      "total_tested": 112,
+      "total_tested": 115,
       "demographics": {
         "age": [
           {
@@ -1405,7 +1405,7 @@
           {
             "age_group": "70-79",
             "count": 0,
-            "tested": 0
+            "tested": 6
           },
           {
             "age_group": "80+",
@@ -1427,7 +1427,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 21
+            "tested": 22
           },
           {
             "description": "Other",
@@ -1459,7 +1459,7 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 14
+            "tested": 15
           },
           {
             "description": "Female",
@@ -1476,8 +1476,8 @@
     },
     {
       "County": "Clay",
-      "confirmed_cases": 0,
-      "total_tested": 128,
+      "confirmed_cases": 1,
+      "total_tested": 131,
       "demographics": {
         "age": [
           {
@@ -1493,7 +1493,7 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 0
+            "tested": 7
           },
           {
             "age_group": "30-39",
@@ -1530,7 +1530,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 14
+            "tested": 15
           },
           {
             "description": "Black",
@@ -1540,7 +1540,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 30
+            "tested": 31
           },
           {
             "description": "Other",
@@ -1577,7 +1577,7 @@
           {
             "description": "Female",
             "count": 0,
-            "tested": 28
+            "tested": 30
           },
           {
             "description": "Unknown/Left Blank",
@@ -1590,7 +1590,7 @@
     {
       "County": "Clinton",
       "confirmed_cases": 38,
-      "total_tested": 492,
+      "total_tested": 496,
       "demographics": {
         "age": [
           {
@@ -1626,7 +1626,7 @@
           {
             "age_group": "60-69",
             "count": 10,
-            "tested": 45
+            "tested": 46
           },
           {
             "age_group": "70-79",
@@ -1636,14 +1636,14 @@
           {
             "age_group": "80+",
             "count": 0,
-            "tested": 28
+            "tested": 29
           }
         ],
         "race": [
           {
             "description": "White",
             "count": 12,
-            "tested": 113
+            "tested": 115
           },
           {
             "description": "Black",
@@ -1685,7 +1685,7 @@
           {
             "description": "Male",
             "count": 9,
-            "tested": 62
+            "tested": 64
           },
           {
             "description": "Female",
@@ -1702,8 +1702,8 @@
     },
     {
       "County": "Coles",
-      "confirmed_cases": 6,
-      "total_tested": 379,
+      "confirmed_cases": 8,
+      "total_tested": 383,
       "demographics": {
         "age": [
           {
@@ -1719,12 +1719,12 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 15
+            "tested": 16
           },
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 19
+            "tested": 20
           },
           {
             "age_group": "40-49",
@@ -1734,7 +1734,7 @@
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 26
+            "tested": 28
           },
           {
             "age_group": "60-69",
@@ -1755,8 +1755,8 @@
         "race": [
           {
             "description": "White",
-            "count": 6,
-            "tested": 100
+            "count": 7,
+            "tested": 101
           },
           {
             "description": "Black",
@@ -1766,7 +1766,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 27
+            "tested": 28
           },
           {
             "description": "Other",
@@ -1798,12 +1798,12 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 50
+            "tested": 51
           },
           {
             "description": "Female",
             "count": 0,
-            "tested": 82
+            "tested": 84
           },
           {
             "description": "Unknown/Left Blank",
@@ -1815,8 +1815,8 @@
     },
     {
       "County": "Cook",
-      "confirmed_cases": 6364,
-      "total_tested": 74593,
+      "confirmed_cases": 6691,
+      "total_tested": 78062,
       "demographics": {
         "age": [
           {
@@ -1826,102 +1826,102 @@
           },
           {
             "age_group": "<20",
-            "count": 95,
-            "tested": 1153
+            "count": 103,
+            "tested": 1189
           },
           {
             "age_group": "20-29",
-            "count": 702,
-            "tested": 4035
+            "count": 751,
+            "tested": 4261
           },
           {
             "age_group": "30-39",
-            "count": 908,
-            "tested": 5451
+            "count": 973,
+            "tested": 5745
           },
           {
             "age_group": "40-49",
-            "count": 1189,
-            "tested": 6111
+            "count": 1247,
+            "tested": 6394
           },
           {
             "age_group": "50-59",
-            "count": 1302,
-            "tested": 6288
+            "count": 1356,
+            "tested": 6601
           },
           {
             "age_group": "60-69",
-            "count": 1087,
-            "tested": 5340
+            "count": 1129,
+            "tested": 5571
           },
           {
             "age_group": "70-79",
-            "count": 622,
-            "tested": 3116
+            "count": 645,
+            "tested": 3242
           },
           {
             "age_group": "80+",
-            "count": 459,
-            "tested": 2237
+            "count": 487,
+            "tested": 2364
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 1697,
-            "tested": 8824
+            "count": 1804,
+            "tested": 9252
           },
           {
             "description": "Black",
-            "count": 1743,
-            "tested": 5784
+            "count": 1827,
+            "tested": 6069
           },
           {
             "description": "Left Blank",
-            "count": 1632,
-            "tested": 13924
+            "count": 1660,
+            "tested": 14539
           },
           {
             "description": "Other",
-            "count": 420,
-            "tested": 2364
+            "count": 438,
+            "tested": 2469
           },
           {
             "description": "Asian",
-            "count": 272,
-            "tested": 1071
+            "count": 293,
+            "tested": 1123
           },
           {
             "description": "Hispanic",
-            "count": 582,
-            "tested": 1704
+            "count": 649,
+            "tested": 1852
           },
           {
             "description": "NH/PI*",
-            "count": 10,
-            "tested": 31
+            "count": 12,
+            "tested": 33
           },
           {
             "description": "AI/AN**",
             "count": 8,
-            "tested": 45
+            "tested": 46
           }
         ],
         "gender": [
           {
             "description": "Male",
-            "count": 2907,
-            "tested": 14080
+            "count": 3074,
+            "tested": 14788
           },
           {
             "description": "Female",
-            "count": 3356,
-            "tested": 19147
+            "count": 3555,
+            "tested": 20104
           },
           {
             "description": "Unknown/Left Blank",
-            "count": 101,
-            "tested": 520
+            "count": 62,
+            "tested": 491
           }
         ]
       }
@@ -2042,7 +2042,7 @@
     {
       "County": "Cumberland",
       "confirmed_cases": 2,
-      "total_tested": 54,
+      "total_tested": 53,
       "demographics": {
         "age": [
           {
@@ -2154,8 +2154,8 @@
     },
     {
       "County": "Dekalb",
-      "confirmed_cases": 36,
-      "total_tested": 805,
+      "confirmed_cases": 35,
+      "total_tested": 828,
       "demographics": {
         "age": [
           {
@@ -2170,18 +2170,18 @@
           },
           {
             "age_group": "20-29",
-            "count": 6,
-            "tested": 68
+            "count": 0,
+            "tested": 70
           },
           {
             "age_group": "30-39",
             "count": 8,
-            "tested": 64
+            "tested": 67
           },
           {
             "age_group": "40-49",
             "count": 12,
-            "tested": 67
+            "tested": 69
           },
           {
             "age_group": "50-59",
@@ -2191,7 +2191,7 @@
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 34
+            "tested": 35
           },
           {
             "age_group": "70-79",
@@ -2201,14 +2201,14 @@
           {
             "age_group": "80+",
             "count": 0,
-            "tested": 11
+            "tested": 12
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 15,
-            "tested": 99
+            "count": 16,
+            "tested": 105
           },
           {
             "description": "Black",
@@ -2217,8 +2217,8 @@
           },
           {
             "description": "Left Blank",
-            "count": 10,
-            "tested": 191
+            "count": 8,
+            "tested": 194
           },
           {
             "description": "Other",
@@ -2249,13 +2249,13 @@
         "gender": [
           {
             "description": "Male",
-            "count": 13,
-            "tested": 103
+            "count": 12,
+            "tested": 104
           },
           {
             "description": "Female",
             "count": 22,
-            "tested": 215
+            "tested": 223
           },
           {
             "description": "Unknown/Left Blank",
@@ -2268,7 +2268,7 @@
     {
       "County": "Dewitt",
       "confirmed_cases": 1,
-      "total_tested": 236,
+      "total_tested": 248,
       "demographics": {
         "age": [
           {
@@ -2279,12 +2279,12 @@
           {
             "age_group": "<20",
             "count": 0,
-            "tested": 6
+            "tested": 7
           },
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 12
+            "tested": 13
           },
           {
             "age_group": "30-39",
@@ -2304,7 +2304,7 @@
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 14
+            "tested": 16
           },
           {
             "age_group": "70-79",
@@ -2321,7 +2321,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 24
+            "tested": 25
           },
           {
             "description": "Black",
@@ -2331,7 +2331,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 54
+            "tested": 57
           },
           {
             "description": "Other",
@@ -2363,12 +2363,12 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 28
+            "tested": 30
           },
           {
             "description": "Female",
             "count": 0,
-            "tested": 49
+            "tested": 51
           },
           {
             "description": "Unknown/Left Blank",
@@ -2381,7 +2381,7 @@
     {
       "County": "Douglas",
       "confirmed_cases": 11,
-      "total_tested": 278,
+      "total_tested": 281,
       "demographics": {
         "age": [
           {
@@ -2402,7 +2402,7 @@
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 10
+            "tested": 11
           },
           {
             "age_group": "40-49",
@@ -2444,7 +2444,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 11
+            "tested": 12
           },
           {
             "description": "Other",
@@ -2481,7 +2481,7 @@
           {
             "description": "Female",
             "count": 6,
-            "tested": 63
+            "tested": 64
           },
           {
             "description": "Unknown/Left Blank",
@@ -2492,9 +2492,9 @@
       }
     },
     {
-      "County": "DuPage",
-      "confirmed_cases": 1236,
-      "total_tested": 16829,
+      "County": "Dupage",
+      "confirmed_cases": 1314,
+      "total_tested": 17571,
       "demographics": {
         "age": [
           {
@@ -2504,75 +2504,75 @@
           },
           {
             "age_group": "<20",
-            "count": 20,
-            "tested": 232
+            "count": 21,
+            "tested": 242
           },
           {
             "age_group": "20-29",
-            "count": 144,
-            "tested": 883
+            "count": 160,
+            "tested": 938
           },
           {
             "age_group": "30-39",
-            "count": 176,
-            "tested": 1273
+            "count": 194,
+            "tested": 1352
           },
           {
             "age_group": "40-49",
-            "count": 204,
-            "tested": 1289
+            "count": 214,
+            "tested": 1350
           },
           {
             "age_group": "50-59",
-            "count": 225,
-            "tested": 1290
+            "count": 233,
+            "tested": 1347
           },
           {
             "age_group": "60-69",
-            "count": 204,
-            "tested": 1132
+            "count": 215,
+            "tested": 1195
           },
           {
             "age_group": "70-79",
-            "count": 126,
-            "tested": 687
+            "count": 134,
+            "tested": 715
           },
           {
             "age_group": "80+",
-            "count": 137,
-            "tested": 666
+            "count": 143,
+            "tested": 696
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 438,
-            "tested": 2111
+            "count": 477,
+            "tested": 2270
           },
           {
             "description": "Black",
-            "count": 90,
-            "tested": 334
+            "count": 102,
+            "tested": 363
           },
           {
             "description": "Left Blank",
-            "count": 338,
-            "tested": 3821
+            "count": 333,
+            "tested": 3930
           },
           {
             "description": "Other",
-            "count": 83,
-            "tested": 392
+            "count": 91,
+            "tested": 415
           },
           {
             "description": "Asian",
-            "count": 78,
-            "tested": 298
+            "count": 85,
+            "tested": 325
           },
           {
             "description": "Hispanic",
-            "count": 206,
-            "tested": 502
+            "count": 223,
+            "tested": 538
           },
           {
             "description": "NH/PI*",
@@ -2588,13 +2588,13 @@
         "gender": [
           {
             "description": "Male",
-            "count": 583,
-            "tested": 3048
+            "count": 626,
+            "tested": 3211
           },
           {
             "description": "Female",
-            "count": 649,
-            "tested": 4139
+            "count": 684,
+            "tested": 4359
           },
           {
             "description": "Unknown/Left Blank",
@@ -2945,8 +2945,8 @@
     },
     {
       "County": "Fayette",
-      "confirmed_cases": 11,
-      "total_tested": 229,
+      "confirmed_cases": 12,
+      "total_tested": 233,
       "demographics": {
         "age": [
           {
@@ -2982,7 +2982,7 @@
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 21
+            "tested": 22
           },
           {
             "age_group": "70-79",
@@ -2992,14 +2992,14 @@
           {
             "age_group": "80+",
             "count": 0,
-            "tested": 17
+            "tested": 19
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 6,
-            "tested": 32
+            "count": 7,
+            "tested": 35
           },
           {
             "description": "Black",
@@ -3041,7 +3041,7 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 34
+            "tested": 37
           },
           {
             "description": "Female",
@@ -3059,7 +3059,7 @@
     {
       "County": "Ford",
       "confirmed_cases": 4,
-      "total_tested": 252,
+      "total_tested": 261,
       "demographics": {
         "age": [
           {
@@ -3070,7 +3070,7 @@
           {
             "age_group": "<20",
             "count": 0,
-            "tested": 7
+            "tested": 8
           },
           {
             "age_group": "20-29",
@@ -3080,12 +3080,12 @@
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 9
+            "tested": 8
           },
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 21
+            "tested": 23
           },
           {
             "age_group": "50-59",
@@ -3112,7 +3112,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 40
+            "tested": 42
           },
           {
             "description": "Black",
@@ -3122,7 +3122,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 47
+            "tested": 48
           },
           {
             "description": "Other",
@@ -3154,12 +3154,12 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 39
+            "tested": 41
           },
           {
             "description": "Female",
             "count": 0,
-            "tested": 54
+            "tested": 55
           },
           {
             "description": "Unknown/Left Blank",
@@ -3172,7 +3172,7 @@
     {
       "County": "Franklin",
       "confirmed_cases": 4,
-      "total_tested": 746,
+      "total_tested": 750,
       "demographics": {
         "age": [
           {
@@ -3213,7 +3213,7 @@
           {
             "age_group": "70-79",
             "count": 0,
-            "tested": 30
+            "tested": 31
           },
           {
             "age_group": "80+",
@@ -3225,7 +3225,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 48
+            "tested": 49
           },
           {
             "description": "Black",
@@ -3277,7 +3277,7 @@
           {
             "description": "Unknown/Left Blank",
             "count": 0,
-            "tested": 18
+            "tested": 19
           }
         ]
       }
@@ -3285,7 +3285,7 @@
     {
       "County": "Fulton",
       "confirmed_cases": 1,
-      "total_tested": 108,
+      "total_tested": 114,
       "demographics": {
         "age": [
           {
@@ -3311,12 +3311,12 @@
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 8
+            "tested": 9
           },
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 11
+            "tested": 12
           },
           {
             "age_group": "60-69",
@@ -3338,7 +3338,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 10
+            "tested": 11
           },
           {
             "description": "Black",
@@ -3348,7 +3348,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 27
+            "tested": 28
           },
           {
             "description": "Other",
@@ -3385,7 +3385,7 @@
           {
             "description": "Female",
             "count": 0,
-            "tested": 22
+            "tested": 24
           },
           {
             "description": "Unknown/Left Blank",
@@ -3398,7 +3398,7 @@
     {
       "County": "Gallatin",
       "confirmed_cases": 2,
-      "total_tested": 54,
+      "total_tested": 55,
       "demographics": {
         "age": [
           {
@@ -3511,7 +3511,7 @@
     {
       "County": "Greene",
       "confirmed_cases": 1,
-      "total_tested": 139,
+      "total_tested": 143,
       "demographics": {
         "age": [
           {
@@ -3532,7 +3532,7 @@
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 7
+            "tested": 8
           },
           {
             "age_group": "40-49",
@@ -3564,7 +3564,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 19
+            "tested": 20
           },
           {
             "description": "Black",
@@ -3606,7 +3606,7 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 19
+            "tested": 20
           },
           {
             "description": "Female",
@@ -3623,8 +3623,8 @@
     },
     {
       "County": "Grundy",
-      "confirmed_cases": 22,
-      "total_tested": 687,
+      "confirmed_cases": 24,
+      "total_tested": 741,
       "demographics": {
         "age": [
           {
@@ -3635,27 +3635,27 @@
           {
             "age_group": "<20",
             "count": 0,
-            "tested": 17
+            "tested": 18
           },
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 40
+            "tested": 44
           },
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 49
+            "tested": 55
           },
           {
             "age_group": "40-49",
             "count": 6,
-            "tested": 61
+            "tested": 63
           },
           {
             "age_group": "50-59",
             "count": 7,
-            "tested": 49
+            "tested": 54
           },
           {
             "age_group": "60-69",
@@ -3665,19 +3665,19 @@
           {
             "age_group": "70-79",
             "count": 0,
-            "tested": 14
+            "tested": 16
           },
           {
             "age_group": "80+",
             "count": 0,
-            "tested": 12
+            "tested": 13
           }
         ],
         "race": [
           {
             "description": "White",
             "count": 7,
-            "tested": 70
+            "tested": 73
           },
           {
             "description": "Black",
@@ -3686,13 +3686,13 @@
           },
           {
             "description": "Left Blank",
-            "count": 11,
-            "tested": 174
+            "count": 13,
+            "tested": 191
           },
           {
             "description": "Other",
             "count": 0,
-            "tested": 13
+            "tested": 14
           },
           {
             "description": "Asian",
@@ -3718,13 +3718,13 @@
         "gender": [
           {
             "description": "Male",
-            "count": 10,
-            "tested": 106
+            "count": 11,
+            "tested": 114
           },
           {
             "description": "Female",
-            "count": 12,
-            "tested": 161
+            "count": 13,
+            "tested": 174
           },
           {
             "description": "Unknown/Left Blank",
@@ -4189,7 +4189,7 @@
     {
       "County": "Henry",
       "confirmed_cases": 23,
-      "total_tested": 741,
+      "total_tested": 747,
       "demographics": {
         "age": [
           {
@@ -4205,12 +4205,12 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 41
+            "tested": 42
           },
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 49
+            "tested": 50
           },
           {
             "age_group": "40-49",
@@ -4241,8 +4241,8 @@
         "race": [
           {
             "description": "White",
-            "count": 10,
-            "tested": 47
+            "count": 11,
+            "tested": 48
           },
           {
             "description": "Black",
@@ -4251,8 +4251,8 @@
           },
           {
             "description": "Left Blank",
-            "count": 11,
-            "tested": 219
+            "count": 10,
+            "tested": 220
           },
           {
             "description": "Other",
@@ -4289,7 +4289,7 @@
           {
             "description": "Female",
             "count": 12,
-            "tested": 148
+            "tested": 150
           },
           {
             "description": "Unknown/Left Blank",
@@ -4302,7 +4302,7 @@
     {
       "County": "Iroquois",
       "confirmed_cases": 9,
-      "total_tested": 419,
+      "total_tested": 428,
       "demographics": {
         "age": [
           {
@@ -4318,17 +4318,17 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 19
+            "tested": 20
           },
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 22
+            "tested": 23
           },
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 27
+            "tested": 28
           },
           {
             "age_group": "50-59",
@@ -4365,7 +4365,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 58
+            "tested": 61
           },
           {
             "description": "Other",
@@ -4402,7 +4402,7 @@
           {
             "description": "Female",
             "count": 0,
-            "tested": 88
+            "tested": 91
           },
           {
             "description": "Unknown/Left Blank",
@@ -4414,8 +4414,8 @@
     },
     {
       "County": "Jackson",
-      "confirmed_cases": 34,
-      "total_tested": 930,
+      "confirmed_cases": 35,
+      "total_tested": 946,
       "demographics": {
         "age": [
           {
@@ -4426,7 +4426,7 @@
           {
             "age_group": "<20",
             "count": 0,
-            "tested": 18
+            "tested": 19
           },
           {
             "age_group": "20-29",
@@ -4436,27 +4436,27 @@
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 49
+            "tested": 50
           },
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 43
+            "tested": 44
           },
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 49
+            "tested": 50
           },
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 42
+            "tested": 43
           },
           {
             "age_group": "70-79",
             "count": 0,
-            "tested": 27
+            "tested": 28
           },
           {
             "age_group": "80+",
@@ -4467,18 +4467,18 @@
         "race": [
           {
             "description": "White",
-            "count": 11,
-            "tested": 87
+            "count": 14,
+            "tested": 90
           },
           {
             "description": "Black",
-            "count": 9,
-            "tested": 10
+            "count": 11,
+            "tested": 12
           },
           {
             "description": "Left Blank",
-            "count": 11,
-            "tested": 251
+            "count": 7,
+            "tested": 252
           },
           {
             "description": "Other",
@@ -4509,18 +4509,18 @@
         "gender": [
           {
             "description": "Male",
-            "count": 11,
-            "tested": 131
+            "count": 14,
+            "tested": 135
           },
           {
             "description": "Female",
-            "count": 19,
-            "tested": 192
+            "count": 20,
+            "tested": 197
           },
           {
             "description": "Unknown/Left Blank",
             "count": 0,
-            "tested": 36
+            "tested": 33
           }
         ]
       }
@@ -4641,7 +4641,7 @@
     {
       "County": "Jefferson",
       "confirmed_cases": 8,
-      "total_tested": 455,
+      "total_tested": 467,
       "demographics": {
         "age": [
           {
@@ -4657,7 +4657,7 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 26
+            "tested": 27
           },
           {
             "age_group": "30-39",
@@ -4667,7 +4667,7 @@
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 21
+            "tested": 23
           },
           {
             "age_group": "50-59",
@@ -4677,7 +4677,7 @@
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 22
+            "tested": 23
           },
           {
             "age_group": "70-79",
@@ -4694,7 +4694,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 60
+            "tested": 63
           },
           {
             "description": "Black",
@@ -4704,7 +4704,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 101
+            "tested": 102
           },
           {
             "description": "Other",
@@ -4736,17 +4736,17 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 65
+            "tested": 66
           },
           {
             "description": "Female",
             "count": 0,
-            "tested": 92
+            "tested": 94
           },
           {
             "description": "Unknown/Left Blank",
             "count": 0,
-            "tested": 7
+            "tested": 8
           }
         ]
       }
@@ -4754,7 +4754,7 @@
     {
       "County": "Jersey",
       "confirmed_cases": 6,
-      "total_tested": 199,
+      "total_tested": 210,
       "demographics": {
         "age": [
           {
@@ -4780,12 +4780,12 @@
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 14
+            "tested": 15
           },
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 9
+            "tested": 11
           },
           {
             "age_group": "60-69",
@@ -4807,7 +4807,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 28
+            "tested": 31
           },
           {
             "description": "Black",
@@ -4854,7 +4854,7 @@
           {
             "description": "Female",
             "count": 0,
-            "tested": 44
+            "tested": 46
           },
           {
             "description": "Unknown/Left Blank",
@@ -4867,7 +4867,7 @@
     {
       "County": "Jodaviess",
       "confirmed_cases": 11,
-      "total_tested": 120,
+      "total_tested": 123,
       "demographics": {
         "age": [
           {
@@ -4913,14 +4913,14 @@
           {
             "age_group": "80+",
             "count": 0,
-            "tested": 9
+            "tested": 10
           }
         ],
         "race": [
           {
             "description": "White",
             "count": 9,
-            "tested": 21
+            "tested": 22
           },
           {
             "description": "Black",
@@ -4962,7 +4962,7 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 22
+            "tested": 23
           },
           {
             "description": "Female",
@@ -5033,7 +5033,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 11
+            "tested": 12
           },
           {
             "description": "Black",
@@ -5043,7 +5043,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 23
+            "tested": 22
           },
           {
             "description": "Other",
@@ -5092,8 +5092,8 @@
     },
     {
       "County": "Kane",
-      "confirmed_cases": 425,
-      "total_tested": 6350,
+      "confirmed_cases": 447,
+      "total_tested": 6642,
       "demographics": {
         "age": [
           {
@@ -5104,64 +5104,64 @@
           {
             "age_group": "<20",
             "count": 0,
-            "tested": 85
+            "tested": 89
           },
           {
             "age_group": "20-29",
-            "count": 56,
-            "tested": 377
+            "count": 59,
+            "tested": 392
           },
           {
             "age_group": "30-39",
-            "count": 63,
-            "tested": 469
+            "count": 67,
+            "tested": 490
           },
           {
             "age_group": "40-49",
-            "count": 83,
-            "tested": 465
+            "count": 84,
+            "tested": 486
           },
           {
             "age_group": "50-59",
-            "count": 97,
-            "tested": 504
+            "count": 100,
+            "tested": 534
           },
           {
             "age_group": "60-69",
-            "count": 57,
-            "tested": 376
+            "count": 63,
+            "tested": 399
           },
           {
             "age_group": "70-79",
-            "count": 36,
-            "tested": 219
+            "count": 38,
+            "tested": 226
           },
           {
             "age_group": "80+",
-            "count": 31,
-            "tested": 210
+            "count": 34,
+            "tested": 221
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 153,
-            "tested": 719
+            "count": 158,
+            "tested": 751
           },
           {
             "description": "Black",
-            "count": 41,
-            "tested": 110
+            "count": 43,
+            "tested": 116
           },
           {
             "description": "Left Blank",
-            "count": 76,
-            "tested": 1404
+            "count": 79,
+            "tested": 1458
           },
           {
             "description": "Other",
-            "count": 0,
-            "tested": 116
+            "count": 7,
+            "tested": 127
           },
           {
             "description": "Asian",
@@ -5170,8 +5170,8 @@
           },
           {
             "description": "Hispanic",
-            "count": 132,
-            "tested": 306
+            "count": 142,
+            "tested": 335
           },
           {
             "description": "NH/PI*",
@@ -5187,13 +5187,13 @@
         "gender": [
           {
             "description": "Male",
-            "count": 222,
-            "tested": 1132
+            "count": 237,
+            "tested": 1200
           },
           {
             "description": "Female",
-            "count": 198,
-            "tested": 1533
+            "count": 205,
+            "tested": 1597
           },
           {
             "description": "Unknown/Left Blank",
@@ -5205,8 +5205,8 @@
     },
     {
       "County": "Kankakee",
-      "confirmed_cases": 211,
-      "total_tested": 2830,
+      "confirmed_cases": 220,
+      "total_tested": 2955,
       "demographics": {
         "age": [
           {
@@ -5217,64 +5217,64 @@
           {
             "age_group": "<20",
             "count": 6,
-            "tested": 48
+            "tested": 50
           },
           {
             "age_group": "20-29",
-            "count": 18,
-            "tested": 121
+            "count": 19,
+            "tested": 132
           },
           {
             "age_group": "30-39",
-            "count": 33,
-            "tested": 199
+            "count": 36,
+            "tested": 211
           },
           {
             "age_group": "40-49",
-            "count": 35,
-            "tested": 198
+            "count": 36,
+            "tested": 206
           },
           {
             "age_group": "50-59",
             "count": 43,
-            "tested": 247
+            "tested": 250
           },
           {
             "age_group": "60-69",
             "count": 31,
-            "tested": 206
+            "tested": 213
           },
           {
             "age_group": "70-79",
-            "count": 16,
-            "tested": 109
+            "count": 18,
+            "tested": 115
           },
           {
             "age_group": "80+",
-            "count": 29,
-            "tested": 114
+            "count": 31,
+            "tested": 120
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 88,
-            "tested": 490
+            "count": 89,
+            "tested": 495
           },
           {
             "description": "Black",
-            "count": 32,
-            "tested": 129
+            "count": 33,
+            "tested": 133
           },
           {
             "description": "Left Blank",
-            "count": 82,
-            "tested": 582
+            "count": 87,
+            "tested": 623
           },
           {
             "description": "Other",
             "count": 0,
-            "tested": 23
+            "tested": 25
           },
           {
             "description": "Asian",
@@ -5283,8 +5283,8 @@
           },
           {
             "description": "Hispanic",
-            "count": 6,
-            "tested": 15
+            "count": 8,
+            "tested": 18
           },
           {
             "description": "NH/PI*",
@@ -5300,13 +5300,13 @@
         "gender": [
           {
             "description": "Male",
-            "count": 103,
-            "tested": 570
+            "count": 106,
+            "tested": 594
           },
           {
             "description": "Female",
-            "count": 104,
-            "tested": 647
+            "count": 110,
+            "tested": 678
           },
           {
             "description": "Unknown/Left Blank",
@@ -5318,8 +5318,8 @@
     },
     {
       "County": "Kendall",
-      "confirmed_cases": 115,
-      "total_tested": 1810,
+      "confirmed_cases": 116,
+      "total_tested": 1883,
       "demographics": {
         "age": [
           {
@@ -5330,64 +5330,64 @@
           {
             "age_group": "<20",
             "count": 0,
-            "tested": 33
+            "tested": 34
           },
           {
             "age_group": "20-29",
             "count": 12,
-            "tested": 95
+            "tested": 97
           },
           {
             "age_group": "30-39",
             "count": 20,
-            "tested": 157
+            "tested": 164
           },
           {
             "age_group": "40-49",
-            "count": 29,
-            "tested": 202
+            "count": 30,
+            "tested": 207
           },
           {
             "age_group": "50-59",
             "count": 32,
-            "tested": 159
+            "tested": 164
           },
           {
             "age_group": "60-69",
             "count": 13,
-            "tested": 67
+            "tested": 69
           },
           {
             "age_group": "70-79",
             "count": 0,
-            "tested": 38
+            "tested": 39
           },
           {
             "age_group": "80+",
             "count": 0,
-            "tested": 19
+            "tested": 22
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 46,
-            "tested": 274
+            "count": 47,
+            "tested": 285
           },
           {
             "description": "Black",
-            "count": 25,
-            "tested": 49
+            "count": 28,
+            "tested": 53
           },
           {
             "description": "Left Blank",
-            "count": 20,
-            "tested": 359
+            "count": 18,
+            "tested": 370
           },
           {
             "description": "Other",
             "count": 0,
-            "tested": 26
+            "tested": 25
           },
           {
             "description": "Asian",
@@ -5397,7 +5397,7 @@
           {
             "description": "Hispanic",
             "count": 16,
-            "tested": 44
+            "tested": 45
           },
           {
             "description": "NH/PI*",
@@ -5414,12 +5414,12 @@
           {
             "description": "Male",
             "count": 49,
-            "tested": 277
+            "tested": 287
           },
           {
             "description": "Female",
-            "count": 66,
-            "tested": 480
+            "count": 67,
+            "tested": 496
           },
           {
             "description": "Unknown/Left Blank",
@@ -5432,7 +5432,7 @@
     {
       "County": "Knox",
       "confirmed_cases": 2,
-      "total_tested": 337,
+      "total_tested": 358,
       "demographics": {
         "age": [
           {
@@ -5448,17 +5448,17 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 23
+            "tested": 24
           },
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 10
+            "tested": 12
           },
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 19
+            "tested": 21
           },
           {
             "age_group": "50-59",
@@ -5473,7 +5473,7 @@
           {
             "age_group": "70-79",
             "count": 0,
-            "tested": 16
+            "tested": 18
           },
           {
             "age_group": "80+",
@@ -5495,7 +5495,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 56
+            "tested": 63
           },
           {
             "description": "Other",
@@ -5527,12 +5527,12 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 55
+            "tested": 57
           },
           {
             "description": "Female",
             "count": 0,
-            "tested": 59
+            "tested": 64
           },
           {
             "description": "Unknown/Left Blank",
@@ -5544,8 +5544,8 @@
     },
     {
       "County": "Lake",
-      "confirmed_cases": 1514,
-      "total_tested": 17089,
+      "confirmed_cases": 1621,
+      "total_tested": 17802,
       "demographics": {
         "age": [
           {
@@ -5555,80 +5555,80 @@
           },
           {
             "age_group": "<20",
-            "count": 60,
-            "tested": 390
+            "count": 63,
+            "tested": 404
           },
           {
             "age_group": "20-29",
-            "count": 242,
-            "tested": 1169
+            "count": 256,
+            "tested": 1216
           },
           {
             "age_group": "30-39",
-            "count": 188,
-            "tested": 1130
+            "count": 209,
+            "tested": 1207
           },
           {
             "age_group": "40-49",
-            "count": 274,
-            "tested": 1363
+            "count": 297,
+            "tested": 1435
           },
           {
             "age_group": "50-59",
-            "count": 320,
-            "tested": 1440
+            "count": 334,
+            "tested": 1501
           },
           {
             "age_group": "60-69",
-            "count": 209,
-            "tested": 1018
+            "count": 226,
+            "tested": 1073
           },
           {
             "age_group": "70-79",
-            "count": 117,
-            "tested": 534
+            "count": 122,
+            "tested": 549
           },
           {
             "age_group": "80+",
-            "count": 103,
-            "tested": 393
+            "count": 113,
+            "tested": 421
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 487,
-            "tested": 2870
+            "count": 533,
+            "tested": 3025
           },
           {
             "description": "Black",
-            "count": 139,
-            "tested": 523
+            "count": 147,
+            "tested": 544
           },
           {
             "description": "Left Blank",
-            "count": 420,
-            "tested": 2306
+            "count": 427,
+            "tested": 2386
           },
           {
             "description": "Other",
-            "count": 88,
-            "tested": 567
+            "count": 91,
+            "tested": 591
           },
           {
             "description": "Asian",
-            "count": 47,
-            "tested": 220
+            "count": 48,
+            "tested": 228
           },
           {
             "description": "Hispanic",
-            "count": 328,
-            "tested": 946
+            "count": 369,
+            "tested": 1026
           },
           {
             "description": "NH/PI*",
             "count": 0,
-            "tested": 7
+            "tested": 8
           },
           {
             "description": "AI/AN**",
@@ -5639,13 +5639,13 @@
         "gender": [
           {
             "description": "Male",
-            "count": 769,
-            "tested": 3207
+            "count": 820,
+            "tested": 3373
           },
           {
             "description": "Female",
-            "count": 721,
-            "tested": 4133
+            "count": 777,
+            "tested": 4336
           },
           {
             "description": "Unknown/Left Blank",
@@ -5656,9 +5656,9 @@
       }
     },
     {
-      "County": "LaSalle",
-      "confirmed_cases": 22,
-      "total_tested": 905,
+      "County": "Lasalle",
+      "confirmed_cases": 24,
+      "total_tested": 935,
       "demographics": {
         "age": [
           {
@@ -5669,17 +5669,17 @@
           {
             "age_group": "<20",
             "count": 0,
-            "tested": 8
+            "tested": 9
           },
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 37
+            "tested": 41
           },
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 55
+            "tested": 59
           },
           {
             "age_group": "40-49",
@@ -5689,7 +5689,7 @@
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 42
+            "tested": 45
           },
           {
             "age_group": "60-69",
@@ -5710,8 +5710,8 @@
         "race": [
           {
             "description": "White",
-            "count": 16,
-            "tested": 158
+            "count": 17,
+            "tested": 162
           },
           {
             "description": "Black",
@@ -5721,7 +5721,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 169
+            "tested": 176
           },
           {
             "description": "Other",
@@ -5752,13 +5752,13 @@
         "gender": [
           {
             "description": "Male",
-            "count": 14,
-            "tested": 136
+            "count": 15,
+            "tested": 141
           },
           {
             "description": "Female",
-            "count": 8,
-            "tested": 190
+            "count": 9,
+            "tested": 197
           },
           {
             "description": "Unknown/Left Blank",
@@ -5771,7 +5771,7 @@
     {
       "County": "Lawrence",
       "confirmed_cases": 2,
-      "total_tested": 167,
+      "total_tested": 182,
       "demographics": {
         "age": [
           {
@@ -5792,22 +5792,22 @@
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 16
+            "tested": 17
           },
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 13
+            "tested": 14
           },
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 6
+            "tested": 7
           },
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 7
+            "tested": 8
           },
           {
             "age_group": "70-79",
@@ -5834,7 +5834,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 33
+            "tested": 38
           },
           {
             "description": "Other",
@@ -5866,12 +5866,12 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 24
+            "tested": 27
           },
           {
             "description": "Female",
             "count": 0,
-            "tested": 32
+            "tested": 34
           },
           {
             "description": "Unknown/Left Blank",
@@ -5884,7 +5884,7 @@
     {
       "County": "Lee",
       "confirmed_cases": 13,
-      "total_tested": 974,
+      "total_tested": 980,
       "demographics": {
         "age": [
           {
@@ -5930,7 +5930,7 @@
           {
             "age_group": "80+",
             "count": 0,
-            "tested": 17
+            "tested": 19
           }
         ],
         "race": [
@@ -5947,7 +5947,7 @@
           {
             "description": "Left Blank",
             "count": 9,
-            "tested": 324
+            "tested": 326
           },
           {
             "description": "Other",
@@ -5979,7 +5979,7 @@
           {
             "description": "Male",
             "count": 10,
-            "tested": 155
+            "tested": 157
           },
           {
             "description": "Female",
@@ -5997,7 +5997,7 @@
     {
       "County": "Livingston",
       "confirmed_cases": 18,
-      "total_tested": 524,
+      "total_tested": 567,
       "demographics": {
         "age": [
           {
@@ -6013,27 +6013,27 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 13
+            "tested": 17
           },
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 34
+            "tested": 36
           },
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 33
+            "tested": 36
           },
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 39
+            "tested": 41
           },
           {
             "age_group": "60-69",
             "count": 6,
-            "tested": 45
+            "tested": 48
           },
           {
             "age_group": "70-79",
@@ -6043,14 +6043,14 @@
           {
             "age_group": "80+",
             "count": 0,
-            "tested": 19
+            "tested": 20
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 13,
-            "tested": 51
+            "count": 14,
+            "tested": 52
           },
           {
             "description": "Black",
@@ -6060,6 +6060,232 @@
           {
             "description": "Left Blank",
             "count": 0,
+            "tested": 160
+          },
+          {
+            "description": "Other",
+            "count": 0,
+            "tested": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0,
+            "tested": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0,
+            "tested": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0,
+            "tested": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0,
+            "tested": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 8,
+            "tested": 91
+          },
+          {
+            "description": "Female",
+            "count": 10,
+            "tested": 103
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0,
+            "tested": 22
+          }
+        ]
+      }
+    },
+    {
+      "County": "Logan",
+      "confirmed_cases": 4,
+      "total_tested": 468,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0,
+            "tested": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0,
+            "tested": 14
+          },
+          {
+            "age_group": "20-29",
+            "count": 0,
+            "tested": 14
+          },
+          {
+            "age_group": "30-39",
+            "count": 0,
+            "tested": 37
+          },
+          {
+            "age_group": "40-49",
+            "count": 0,
+            "tested": 25
+          },
+          {
+            "age_group": "50-59",
+            "count": 0,
+            "tested": 28
+          },
+          {
+            "age_group": "60-69",
+            "count": 0,
+            "tested": 15
+          },
+          {
+            "age_group": "70-79",
+            "count": 0,
+            "tested": 17
+          },
+          {
+            "age_group": "80+",
+            "count": 0,
+            "tested": 18
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 0,
+            "tested": 55
+          },
+          {
+            "description": "Black",
+            "count": 0,
+            "tested": 0
+          },
+          {
+            "description": "Left Blank",
+            "count": 0,
+            "tested": 114
+          },
+          {
+            "description": "Other",
+            "count": 0,
+            "tested": 0
+          },
+          {
+            "description": "Asian",
+            "count": 0,
+            "tested": 0
+          },
+          {
+            "description": "Hispanic",
+            "count": 0,
+            "tested": 0
+          },
+          {
+            "description": "NH/PI*",
+            "count": 0,
+            "tested": 0
+          },
+          {
+            "description": "AI/AN**",
+            "count": 0,
+            "tested": 0
+          }
+        ],
+        "gender": [
+          {
+            "description": "Male",
+            "count": 0,
+            "tested": 57
+          },
+          {
+            "description": "Female",
+            "count": 0,
+            "tested": 100
+          },
+          {
+            "description": "Unknown/Left Blank",
+            "count": 0,
+            "tested": 12
+          }
+        ]
+      }
+    },
+    {
+      "County": "Macon",
+      "confirmed_cases": 45,
+      "total_tested": 694,
+      "demographics": {
+        "age": [
+          {
+            "age_group": "Unknown",
+            "count": 0,
+            "tested": 0
+          },
+          {
+            "age_group": "<20",
+            "count": 0,
+            "tested": 10
+          },
+          {
+            "age_group": "20-29",
+            "count": 0,
+            "tested": 31
+          },
+          {
+            "age_group": "30-39",
+            "count": 0,
+            "tested": 47
+          },
+          {
+            "age_group": "40-49",
+            "count": 0,
+            "tested": 49
+          },
+          {
+            "age_group": "50-59",
+            "count": 0,
+            "tested": 40
+          },
+          {
+            "age_group": "60-69",
+            "count": 7,
+            "tested": 35
+          },
+          {
+            "age_group": "70-79",
+            "count": 7,
+            "tested": 25
+          },
+          {
+            "age_group": "80+",
+            "count": 18,
+            "tested": 48
+          }
+        ],
+        "race": [
+          {
+            "description": "White",
+            "count": 24,
+            "tested": 120
+          },
+          {
+            "description": "Black",
+            "count": 9,
+            "tested": 12
+          },
+          {
+            "description": "Left Blank",
+            "count": 9,
             "tested": 146
           },
           {
@@ -6091,239 +6317,13 @@
         "gender": [
           {
             "description": "Male",
-            "count": 8,
-            "tested": 83
+            "count": 14,
+            "tested": 86
           },
           {
             "description": "Female",
-            "count": 10,
-            "tested": 96
-          },
-          {
-            "description": "Unknown/Left Blank",
-            "count": 0,
-            "tested": 22
-          }
-        ]
-      }
-    },
-    {
-      "County": "Logan",
-      "confirmed_cases": 4,
-      "total_tested": 435,
-      "demographics": {
-        "age": [
-          {
-            "age_group": "Unknown",
-            "count": 0,
-            "tested": 0
-          },
-          {
-            "age_group": "<20",
-            "count": 0,
-            "tested": 13
-          },
-          {
-            "age_group": "20-29",
-            "count": 0,
-            "tested": 14
-          },
-          {
-            "age_group": "30-39",
-            "count": 0,
-            "tested": 37
-          },
-          {
-            "age_group": "40-49",
-            "count": 0,
-            "tested": 24
-          },
-          {
-            "age_group": "50-59",
-            "count": 0,
-            "tested": 25
-          },
-          {
-            "age_group": "60-69",
-            "count": 0,
-            "tested": 13
-          },
-          {
-            "age_group": "70-79",
-            "count": 0,
-            "tested": 15
-          },
-          {
-            "age_group": "80+",
-            "count": 0,
-            "tested": 16
-          }
-        ],
-        "race": [
-          {
-            "description": "White",
-            "count": 0,
-            "tested": 51
-          },
-          {
-            "description": "Black",
-            "count": 0,
-            "tested": 0
-          },
-          {
-            "description": "Left Blank",
-            "count": 0,
-            "tested": 107
-          },
-          {
-            "description": "Other",
-            "count": 0,
-            "tested": 0
-          },
-          {
-            "description": "Asian",
-            "count": 0,
-            "tested": 0
-          },
-          {
-            "description": "Hispanic",
-            "count": 0,
-            "tested": 0
-          },
-          {
-            "description": "NH/PI*",
-            "count": 0,
-            "tested": 0
-          },
-          {
-            "description": "AI/AN**",
-            "count": 0,
-            "tested": 0
-          }
-        ],
-        "gender": [
-          {
-            "description": "Male",
-            "count": 0,
-            "tested": 56
-          },
-          {
-            "description": "Female",
-            "count": 0,
-            "tested": 90
-          },
-          {
-            "description": "Unknown/Left Blank",
-            "count": 0,
-            "tested": 12
-          }
-        ]
-      }
-    },
-    {
-      "County": "Macon",
-      "confirmed_cases": 41,
-      "total_tested": 650,
-      "demographics": {
-        "age": [
-          {
-            "age_group": "Unknown",
-            "count": 0,
-            "tested": 0
-          },
-          {
-            "age_group": "<20",
-            "count": 0,
-            "tested": 9
-          },
-          {
-            "age_group": "20-29",
-            "count": 0,
-            "tested": 28
-          },
-          {
-            "age_group": "30-39",
-            "count": 0,
-            "tested": 46
-          },
-          {
-            "age_group": "40-49",
-            "count": 0,
-            "tested": 46
-          },
-          {
-            "age_group": "50-59",
-            "count": 0,
-            "tested": 39
-          },
-          {
-            "age_group": "60-69",
-            "count": 6,
-            "tested": 32
-          },
-          {
-            "age_group": "70-79",
-            "count": 0,
-            "tested": 21
-          },
-          {
-            "age_group": "80+",
-            "count": 17,
-            "tested": 46
-          }
-        ],
-        "race": [
-          {
-            "description": "White",
-            "count": 22,
-            "tested": 115
-          },
-          {
-            "description": "Black",
-            "count": 7,
-            "tested": 10
-          },
-          {
-            "description": "Left Blank",
-            "count": 9,
-            "tested": 135
-          },
-          {
-            "description": "Other",
-            "count": 0,
-            "tested": 0
-          },
-          {
-            "description": "Asian",
-            "count": 0,
-            "tested": 0
-          },
-          {
-            "description": "Hispanic",
-            "count": 0,
-            "tested": 0
-          },
-          {
-            "description": "NH/PI*",
-            "count": 0,
-            "tested": 0
-          },
-          {
-            "description": "AI/AN**",
-            "count": 0,
-            "tested": 0
-          }
-        ],
-        "gender": [
-          {
-            "description": "Male",
-            "count": 12,
-            "tested": 76
-          },
-          {
-            "description": "Female",
-            "count": 29,
-            "tested": 186
+            "count": 31,
+            "tested": 194
           },
           {
             "description": "Unknown/Left Blank",
@@ -6336,7 +6336,7 @@
     {
       "County": "Macoupin",
       "confirmed_cases": 16,
-      "total_tested": 435,
+      "total_tested": 436,
       "demographics": {
         "age": [
           {
@@ -6352,12 +6352,12 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 23
+            "tested": 22
           },
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 38
+            "tested": 39
           },
           {
             "age_group": "40-49",
@@ -6372,7 +6372,7 @@
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 27
+            "tested": 28
           },
           {
             "age_group": "70-79",
@@ -6389,7 +6389,7 @@
           {
             "description": "White",
             "count": 8,
-            "tested": 58
+            "tested": 59
           },
           {
             "description": "Black",
@@ -6431,7 +6431,7 @@
           {
             "description": "Male",
             "count": 10,
-            "tested": 65
+            "tested": 66
           },
           {
             "description": "Female",
@@ -6448,8 +6448,8 @@
     },
     {
       "County": "Madison",
-      "confirmed_cases": 115,
-      "total_tested": 1908,
+      "confirmed_cases": 129,
+      "total_tested": 1973,
       "demographics": {
         "age": [
           {
@@ -6460,59 +6460,59 @@
           {
             "age_group": "<20",
             "count": 0,
-            "tested": 34
+            "tested": 35
           },
           {
             "age_group": "20-29",
-            "count": 7,
-            "tested": 71
+            "count": 12,
+            "tested": 78
           },
           {
             "age_group": "30-39",
             "count": 20,
-            "tested": 136
+            "tested": 137
           },
           {
             "age_group": "40-49",
-            "count": 24,
-            "tested": 138
+            "count": 28,
+            "tested": 147
           },
           {
             "age_group": "50-59",
-            "count": 21,
-            "tested": 140
+            "count": 24,
+            "tested": 143
           },
           {
             "age_group": "60-69",
-            "count": 22,
-            "tested": 111
+            "count": 24,
+            "tested": 118
           },
           {
             "age_group": "70-79",
             "count": 15,
-            "tested": 69
+            "tested": 70
           },
           {
             "age_group": "80+",
             "count": 6,
-            "tested": 53
+            "tested": 56
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 47,
-            "tested": 181
+            "count": 49,
+            "tested": 188
           },
           {
             "description": "Black",
-            "count": 21,
-            "tested": 23
+            "count": 25,
+            "tested": 27
           },
           {
             "description": "Left Blank",
-            "count": 46,
-            "tested": 552
+            "count": 53,
+            "tested": 572
           },
           {
             "description": "Other",
@@ -6543,26 +6543,26 @@
         "gender": [
           {
             "description": "Male",
-            "count": 48,
-            "tested": 289
+            "count": 52,
+            "tested": 296
           },
           {
             "description": "Female",
-            "count": 64,
-            "tested": 445
+            "count": 74,
+            "tested": 469
           },
           {
             "description": "Unknown/Left Blank",
             "count": 0,
-            "tested": 26
+            "tested": 27
           }
         ]
       }
     },
     {
       "County": "Marion",
-      "confirmed_cases": 13,
-      "total_tested": 704,
+      "confirmed_cases": 14,
+      "total_tested": 741,
       "demographics": {
         "age": [
           {
@@ -6578,17 +6578,17 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 46
+            "tested": 50
           },
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 56
+            "tested": 60
           },
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 48
+            "tested": 50
           },
           {
             "age_group": "50-59",
@@ -6598,7 +6598,7 @@
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 38
+            "tested": 41
           },
           {
             "age_group": "70-79",
@@ -6615,7 +6615,7 @@
           {
             "description": "White",
             "count": 10,
-            "tested": 119
+            "tested": 126
           },
           {
             "description": "Black",
@@ -6625,7 +6625,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 140
+            "tested": 145
           },
           {
             "description": "Other",
@@ -6657,12 +6657,12 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 89
+            "tested": 92
           },
           {
             "description": "Female",
-            "count": 8,
-            "tested": 147
+            "count": 9,
+            "tested": 157
           },
           {
             "description": "Unknown/Left Blank",
@@ -6674,8 +6674,8 @@
     },
     {
       "County": "Marshall",
-      "confirmed_cases": 1,
-      "total_tested": 45,
+      "confirmed_cases": 2,
+      "total_tested": 51,
       "demographics": {
         "age": [
           {
@@ -6728,7 +6728,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 0
+            "tested": 7
           },
           {
             "description": "Black",
@@ -6738,7 +6738,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 11
+            "tested": 12
           },
           {
             "description": "Other",
@@ -6775,7 +6775,7 @@
           {
             "description": "Female",
             "count": 0,
-            "tested": 7
+            "tested": 10
           },
           {
             "description": "Unknown/Left Blank",
@@ -6900,8 +6900,8 @@
     },
     {
       "County": "Massac",
-      "confirmed_cases": 2,
-      "total_tested": 111,
+      "confirmed_cases": 3,
+      "total_tested": 115,
       "demographics": {
         "age": [
           {
@@ -6917,7 +6917,7 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 6
+            "tested": 7
           },
           {
             "age_group": "30-39",
@@ -6937,7 +6937,7 @@
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 9
+            "tested": 10
           },
           {
             "age_group": "70-79",
@@ -6964,7 +6964,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 36
+            "tested": 37
           },
           {
             "description": "Other",
@@ -6996,12 +6996,12 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 17
+            "tested": 18
           },
           {
             "description": "Female",
             "count": 0,
-            "tested": 21
+            "tested": 22
           },
           {
             "description": "Unknown/Left Blank",
@@ -7012,9 +7012,9 @@
       }
     },
     {
-      "County": "Mcdonough",
+      "County": "McDonough",
       "confirmed_cases": 2,
-      "total_tested": 163,
+      "total_tested": 173,
       "demographics": {
         "age": [
           {
@@ -7040,7 +7040,7 @@
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 0
+            "tested": 6
           },
           {
             "age_group": "50-59",
@@ -7050,7 +7050,7 @@
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 7
+            "tested": 8
           },
           {
             "age_group": "70-79",
@@ -7067,7 +7067,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 39
+            "tested": 40
           },
           {
             "description": "Black",
@@ -7077,7 +7077,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 21
+            "tested": 24
           },
           {
             "description": "Other",
@@ -7114,7 +7114,7 @@
           {
             "description": "Female",
             "count": 0,
-            "tested": 38
+            "tested": 42
           },
           {
             "description": "Unknown/Left Blank",
@@ -7126,8 +7126,8 @@
     },
     {
       "County": "McHenry",
-      "confirmed_cases": 246,
-      "total_tested": 4308,
+      "confirmed_cases": 260,
+      "total_tested": 4389,
       "demographics": {
         "age": [
           {
@@ -7142,45 +7142,45 @@
           },
           {
             "age_group": "20-29",
-            "count": 24,
-            "tested": 231
+            "count": 25,
+            "tested": 238
           },
           {
             "age_group": "30-39",
-            "count": 25,
-            "tested": 253
+            "count": 29,
+            "tested": 262
           },
           {
             "age_group": "40-49",
-            "count": 45,
-            "tested": 291
+            "count": 46,
+            "tested": 295
           },
           {
             "age_group": "50-59",
-            "count": 54,
-            "tested": 337
+            "count": 56,
+            "tested": 345
           },
           {
             "age_group": "60-69",
-            "count": 44,
-            "tested": 284
+            "count": 47,
+            "tested": 289
           },
           {
             "age_group": "70-79",
-            "count": 31,
-            "tested": 174
+            "count": 33,
+            "tested": 178
           },
           {
             "age_group": "80+",
-            "count": 19,
-            "tested": 109
+            "count": 21,
+            "tested": 114
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 136,
-            "tested": 682
+            "count": 154,
+            "tested": 712
           },
           {
             "description": "Black",
@@ -7189,23 +7189,23 @@
           },
           {
             "description": "Left Blank",
-            "count": 59,
-            "tested": 955
+            "count": 49,
+            "tested": 959
           },
           {
             "description": "Other",
             "count": 0,
-            "tested": 45
+            "tested": 47
           },
           {
             "description": "Asian",
-            "count": 8,
-            "tested": 29
+            "count": 9,
+            "tested": 31
           },
           {
             "description": "Hispanic",
-            "count": 34,
-            "tested": 42
+            "count": 37,
+            "tested": 45
           },
           {
             "description": "NH/PI*",
@@ -7221,26 +7221,26 @@
         "gender": [
           {
             "description": "Male",
-            "count": 113,
-            "tested": 701
+            "count": 119,
+            "tested": 717
           },
           {
             "description": "Female",
-            "count": 131,
-            "tested": 1051
+            "count": 138,
+            "tested": 1076
           },
           {
             "description": "Unknown/Left Blank",
             "count": 0,
-            "tested": 17
+            "tested": 18
           }
         ]
       }
     },
     {
       "County": "Mclean",
-      "confirmed_cases": 79,
-      "total_tested": 3721,
+      "confirmed_cases": 81,
+      "total_tested": 4120,
       "demographics": {
         "age": [
           {
@@ -7251,49 +7251,49 @@
           {
             "age_group": "<20",
             "count": 0,
-            "tested": 45
+            "tested": 52
           },
           {
             "age_group": "20-29",
             "count": 12,
-            "tested": 171
+            "tested": 196
           },
           {
             "age_group": "30-39",
             "count": 7,
-            "tested": 183
+            "tested": 200
           },
           {
             "age_group": "40-49",
-            "count": 12,
-            "tested": 226
+            "count": 13,
+            "tested": 240
           },
           {
             "age_group": "50-59",
             "count": 12,
-            "tested": 240
+            "tested": 269
           },
           {
             "age_group": "60-69",
             "count": 15,
-            "tested": 228
+            "tested": 253
           },
           {
             "age_group": "70-79",
             "count": 14,
-            "tested": 180
+            "tested": 195
           },
           {
             "age_group": "80+",
             "count": 0,
-            "tested": 81
+            "tested": 85
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 20,
-            "tested": 144
+            "count": 22,
+            "tested": 147
           },
           {
             "description": "Black",
@@ -7303,7 +7303,7 @@
           {
             "description": "Left Blank",
             "count": 35,
-            "tested": 1167
+            "tested": 1300
           },
           {
             "description": "Other",
@@ -7334,18 +7334,18 @@
         "gender": [
           {
             "description": "Male",
-            "count": 27,
-            "tested": 452
+            "count": 28,
+            "tested": 505
           },
           {
             "description": "Female",
-            "count": 45,
-            "tested": 644
+            "count": 46,
+            "tested": 720
           },
           {
             "description": "Unknown/Left Blank",
             "count": 7,
-            "tested": 259
+            "tested": 266
           }
         ]
       }
@@ -7465,8 +7465,8 @@
     },
     {
       "County": "Mercer",
-      "confirmed_cases": 2,
-      "total_tested": 166,
+      "confirmed_cases": 3,
+      "total_tested": 170,
       "demographics": {
         "age": [
           {
@@ -7497,12 +7497,12 @@
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 12
+            "tested": 13
           },
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 15
+            "tested": 16
           },
           {
             "age_group": "70-79",
@@ -7519,7 +7519,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 13
+            "tested": 16
           },
           {
             "description": "Black",
@@ -7529,7 +7529,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 47
+            "tested": 46
           },
           {
             "description": "Other",
@@ -7566,7 +7566,7 @@
           {
             "description": "Female",
             "count": 0,
-            "tested": 32
+            "tested": 34
           },
           {
             "description": "Unknown/Left Blank",
@@ -7578,8 +7578,8 @@
     },
     {
       "County": "Monroe",
-      "confirmed_cases": 45,
-      "total_tested": 389,
+      "confirmed_cases": 46,
+      "total_tested": 393,
       "demographics": {
         "age": [
           {
@@ -7615,7 +7615,7 @@
           {
             "age_group": "60-69",
             "count": 10,
-            "tested": 22
+            "tested": 23
           },
           {
             "age_group": "70-79",
@@ -7624,15 +7624,15 @@
           },
           {
             "age_group": "80+",
-            "count": 19,
-            "tested": 47
+            "count": 20,
+            "tested": 48
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 30,
-            "tested": 83
+            "count": 31,
+            "tested": 84
           },
           {
             "description": "Black",
@@ -7642,7 +7642,7 @@
           {
             "description": "Left Blank",
             "count": 12,
-            "tested": 81
+            "tested": 82
           },
           {
             "description": "Other",
@@ -7673,8 +7673,8 @@
         "gender": [
           {
             "description": "Male",
-            "count": 14,
-            "tested": 65
+            "count": 15,
+            "tested": 67
           },
           {
             "description": "Female",
@@ -7692,7 +7692,7 @@
     {
       "County": "Montgomery",
       "confirmed_cases": 9,
-      "total_tested": 414,
+      "total_tested": 415,
       "demographics": {
         "age": [
           {
@@ -7723,7 +7723,7 @@
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 28
+            "tested": 29
           },
           {
             "age_group": "60-69",
@@ -7745,7 +7745,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 58
+            "tested": 59
           },
           {
             "description": "Black",
@@ -7787,7 +7787,7 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 62
+            "tested": 63
           },
           {
             "description": "Female",
@@ -7918,7 +7918,7 @@
     {
       "County": "Moultrie",
       "confirmed_cases": 2,
-      "total_tested": 53,
+      "total_tested": 62,
       "demographics": {
         "age": [
           {
@@ -7971,7 +7971,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 17
+            "tested": 19
           },
           {
             "description": "Black",
@@ -8013,12 +8013,12 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 0
+            "tested": 6
           },
           {
             "description": "Female",
             "count": 0,
-            "tested": 16
+            "tested": 18
           },
           {
             "description": "Unknown/Left Blank",
@@ -8031,7 +8031,7 @@
     {
       "County": "Ogle",
       "confirmed_cases": 26,
-      "total_tested": 1164,
+      "total_tested": 1167,
       "demographics": {
         "age": [
           {
@@ -8062,7 +8062,7 @@
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 81
+            "tested": 82
           },
           {
             "age_group": "60-69",
@@ -8094,7 +8094,7 @@
           {
             "description": "Left Blank",
             "count": 24,
-            "tested": 364
+            "tested": 365
           },
           {
             "description": "Other",
@@ -8131,7 +8131,7 @@
           {
             "description": "Female",
             "count": 16,
-            "tested": 256
+            "tested": 257
           },
           {
             "description": "Unknown/Left Blank",
@@ -8143,8 +8143,8 @@
     },
     {
       "County": "Peoria",
-      "confirmed_cases": 30,
-      "total_tested": 843,
+      "confirmed_cases": 31,
+      "total_tested": 921,
       "demographics": {
         "age": [
           {
@@ -8155,49 +8155,49 @@
           {
             "age_group": "<20",
             "count": 0,
-            "tested": 21
+            "tested": 23
           },
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 42
+            "tested": 43
           },
           {
             "age_group": "30-39",
             "count": 7,
-            "tested": 63
+            "tested": 67
           },
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 45
+            "tested": 54
           },
           {
             "age_group": "50-59",
             "count": 8,
-            "tested": 40
+            "tested": 43
           },
           {
             "age_group": "60-69",
             "count": 8,
-            "tested": 62
+            "tested": 66
           },
           {
             "age_group": "70-79",
             "count": 0,
-            "tested": 22
+            "tested": 24
           },
           {
             "age_group": "80+",
             "count": 0,
-            "tested": 27
+            "tested": 29
           }
         ],
         "race": [
           {
             "description": "White",
             "count": 16,
-            "tested": 106
+            "tested": 107
           },
           {
             "description": "Black",
@@ -8206,8 +8206,8 @@
           },
           {
             "description": "Left Blank",
-            "count": 0,
-            "tested": 199
+            "count": 6,
+            "tested": 225
           },
           {
             "description": "Other",
@@ -8239,17 +8239,17 @@
           {
             "description": "Male",
             "count": 10,
-            "tested": 121
+            "tested": 130
           },
           {
             "description": "Female",
-            "count": 19,
-            "tested": 155
+            "count": 20,
+            "tested": 172
           },
           {
             "description": "Unknown/Left Blank",
             "count": 0,
-            "tested": 48
+            "tested": 49
           }
         ]
       }
@@ -8483,7 +8483,7 @@
     {
       "County": "Pike",
       "confirmed_cases": 1,
-      "total_tested": 60,
+      "total_tested": 63,
       "demographics": {
         "age": [
           {
@@ -8499,7 +8499,7 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 0
+            "tested": 6
           },
           {
             "age_group": "30-39",
@@ -8546,7 +8546,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 11
+            "tested": 12
           },
           {
             "description": "Other",
@@ -8583,7 +8583,7 @@
           {
             "description": "Female",
             "count": 0,
-            "tested": 15
+            "tested": 16
           },
           {
             "description": "Unknown/Left Blank",
@@ -8772,7 +8772,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 22
+            "tested": 21
           },
           {
             "description": "Other",
@@ -8822,7 +8822,7 @@
     {
       "County": "Putnam",
       "confirmed_cases": 0,
-      "total_tested": 28,
+      "total_tested": 34,
       "demographics": {
         "age": [
           {
@@ -8885,7 +8885,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 8
+            "tested": 10
           },
           {
             "description": "Other",
@@ -8922,7 +8922,7 @@
           {
             "description": "Female",
             "count": 0,
-            "tested": 7
+            "tested": 8
           },
           {
             "description": "Unknown/Left Blank",
@@ -8935,7 +8935,7 @@
     {
       "County": "Randolph",
       "confirmed_cases": 41,
-      "total_tested": 676,
+      "total_tested": 679,
       "demographics": {
         "age": [
           {
@@ -8971,12 +8971,12 @@
           {
             "age_group": "60-69",
             "count": 6,
-            "tested": 35
+            "tested": 34
           },
           {
             "age_group": "70-79",
             "count": 6,
-            "tested": 21
+            "tested": 22
           },
           {
             "age_group": "80+",
@@ -8987,8 +8987,8 @@
         "race": [
           {
             "description": "White",
-            "count": 31,
-            "tested": 130
+            "count": 34,
+            "tested": 134
           },
           {
             "description": "Black",
@@ -8997,8 +8997,8 @@
           },
           {
             "description": "Left Blank",
-            "count": 10,
-            "tested": 137
+            "count": 7,
+            "tested": 133
           },
           {
             "description": "Other",
@@ -9030,12 +9030,12 @@
           {
             "description": "Male",
             "count": 18,
-            "tested": 102
+            "tested": 101
           },
           {
             "description": "Female",
             "count": 22,
-            "tested": 159
+            "tested": 160
           },
           {
             "description": "Unknown/Left Blank",
@@ -9160,8 +9160,8 @@
     },
     {
       "County": "Rock Island",
-      "confirmed_cases": 105,
-      "total_tested": 1496,
+      "confirmed_cases": 113,
+      "total_tested": 1512,
       "demographics": {
         "age": [
           {
@@ -9181,40 +9181,40 @@
           },
           {
             "age_group": "30-39",
-            "count": 15,
-            "tested": 101
+            "count": 19,
+            "tested": 106
           },
           {
             "age_group": "40-49",
-            "count": 19,
-            "tested": 105
+            "count": 20,
+            "tested": 106
           },
           {
             "age_group": "50-59",
-            "count": 30,
-            "tested": 122
+            "count": 31,
+            "tested": 123
           },
           {
             "age_group": "60-69",
-            "count": 16,
-            "tested": 85
+            "count": 18,
+            "tested": 87
           },
           {
             "age_group": "70-79",
-            "count": 10,
-            "tested": 49
+            "count": 9,
+            "tested": 47
           },
           {
             "age_group": "80+",
             "count": 0,
-            "tested": 24
+            "tested": 28
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 25,
-            "tested": 60
+            "count": 32,
+            "tested": 67
           },
           {
             "description": "Black",
@@ -9223,8 +9223,8 @@
           },
           {
             "description": "Left Blank",
-            "count": 49,
-            "tested": 500
+            "count": 47,
+            "tested": 501
           },
           {
             "description": "Other",
@@ -9238,8 +9238,8 @@
           },
           {
             "description": "Hispanic",
-            "count": 20,
-            "tested": 23
+            "count": 23,
+            "tested": 26
           },
           {
             "description": "NH/PI*",
@@ -9255,18 +9255,18 @@
         "gender": [
           {
             "description": "Male",
-            "count": 61,
-            "tested": 288
+            "count": 62,
+            "tested": 290
           },
           {
             "description": "Female",
-            "count": 42,
-            "tested": 310
+            "count": 48,
+            "tested": 318
           },
           {
             "description": "Unknown/Left Blank",
             "count": 0,
-            "tested": 0
+            "tested": 6
           }
         ]
       }
@@ -9274,7 +9274,7 @@
     {
       "County": "Saline",
       "confirmed_cases": 3,
-      "total_tested": 311,
+      "total_tested": 317,
       "demographics": {
         "age": [
           {
@@ -9295,7 +9295,7 @@
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 15
+            "tested": 16
           },
           {
             "age_group": "40-49",
@@ -9310,7 +9310,7 @@
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 18
+            "tested": 19
           },
           {
             "age_group": "70-79",
@@ -9337,7 +9337,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 78
+            "tested": 80
           },
           {
             "description": "Other",
@@ -9369,12 +9369,12 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 38
+            "tested": 39
           },
           {
             "description": "Female",
             "count": 0,
-            "tested": 66
+            "tested": 67
           },
           {
             "description": "Unknown/Left Blank",
@@ -9386,8 +9386,8 @@
     },
     {
       "County": "Sangamon",
-      "confirmed_cases": 44,
-      "total_tested": 3806,
+      "confirmed_cases": 45,
+      "total_tested": 3881,
       "demographics": {
         "age": [
           {
@@ -9398,37 +9398,37 @@
           {
             "age_group": "<20",
             "count": 0,
-            "tested": 83
+            "tested": 85
           },
           {
             "age_group": "20-29",
-            "count": 9,
-            "tested": 211
+            "count": 8,
+            "tested": 214
           },
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 240
+            "tested": 243
           },
           {
             "age_group": "40-49",
             "count": 7,
-            "tested": 246
+            "tested": 252
           },
           {
             "age_group": "50-59",
             "count": 8,
-            "tested": 225
+            "tested": 228
           },
           {
             "age_group": "60-69",
-            "count": 6,
-            "tested": 172
+            "count": 7,
+            "tested": 179
           },
           {
             "age_group": "70-79",
             "count": 6,
-            "tested": 119
+            "tested": 123
           },
           {
             "age_group": "80+",
@@ -9439,8 +9439,8 @@
         "race": [
           {
             "description": "White",
-            "count": 28,
-            "tested": 255
+            "count": 30,
+            "tested": 266
           },
           {
             "description": "Black",
@@ -9449,13 +9449,13 @@
           },
           {
             "description": "Left Blank",
-            "count": 10,
-            "tested": 1086
+            "count": 9,
+            "tested": 1103
           },
           {
             "description": "Other",
             "count": 0,
-            "tested": 9
+            "tested": 10
           },
           {
             "description": "Asian",
@@ -9481,13 +9481,13 @@
         "gender": [
           {
             "description": "Male",
-            "count": 16,
-            "tested": 486
+            "count": 17,
+            "tested": 495
           },
           {
             "description": "Female",
             "count": 28,
-            "tested": 868
+            "tested": 887
           },
           {
             "description": "Unknown/Left Blank",
@@ -9779,7 +9779,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 19
+            "tested": 20
           },
           {
             "description": "Black",
@@ -9789,7 +9789,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 17
+            "tested": 16
           },
           {
             "description": "Other",
@@ -9839,7 +9839,7 @@
     {
       "County": "Southern Seven Health Departme",
       "confirmed_cases": 0,
-      "total_tested": 30,
+      "total_tested": 32,
       "demographics": {
         "age": [
           {
@@ -9951,8 +9951,8 @@
     },
     {
       "County": "St. Clair",
-      "confirmed_cases": 200,
-      "total_tested": 3572,
+      "confirmed_cases": 219,
+      "total_tested": 3651,
       "demographics": {
         "age": [
           {
@@ -9967,55 +9967,55 @@
           },
           {
             "age_group": "20-29",
-            "count": 9,
-            "tested": 142
+            "count": 11,
+            "tested": 146
           },
           {
             "age_group": "30-39",
-            "count": 36,
-            "tested": 268
+            "count": 37,
+            "tested": 272
           },
           {
             "age_group": "40-49",
-            "count": 45,
-            "tested": 268
+            "count": 46,
+            "tested": 270
           },
           {
             "age_group": "50-59",
-            "count": 40,
-            "tested": 253
+            "count": 46,
+            "tested": 264
           },
           {
             "age_group": "60-69",
-            "count": 25,
-            "tested": 211
+            "count": 29,
+            "tested": 222
           },
           {
             "age_group": "70-79",
-            "count": 18,
-            "tested": 132
+            "count": 21,
+            "tested": 136
           },
           {
             "age_group": "80+",
-            "count": 23,
-            "tested": 107
+            "count": 25,
+            "tested": 113
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 50,
-            "tested": 240
+            "count": 57,
+            "tested": 251
           },
           {
             "description": "Black",
-            "count": 65,
-            "tested": 91
+            "count": 79,
+            "tested": 105
           },
           {
             "description": "Left Blank",
-            "count": 79,
-            "tested": 1091
+            "count": 77,
+            "tested": 1108
           },
           {
             "description": "Other",
@@ -10046,18 +10046,18 @@
         "gender": [
           {
             "description": "Male",
-            "count": 76,
-            "tested": 569
+            "count": 83,
+            "tested": 585
           },
           {
             "description": "Female",
-            "count": 116,
-            "tested": 839
+            "count": 127,
+            "tested": 864
           },
           {
             "description": "Unknown/Left Blank",
-            "count": 8,
-            "tested": 38
+            "count": 9,
+            "tested": 39
           }
         ]
       }
@@ -10177,8 +10177,8 @@
     },
     {
       "County": "Stephenson",
-      "confirmed_cases": 8,
-      "total_tested": 391,
+      "confirmed_cases": 9,
+      "total_tested": 409,
       "demographics": {
         "age": [
           {
@@ -10204,7 +10204,7 @@
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 31
+            "tested": 32
           },
           {
             "age_group": "50-59",
@@ -10214,12 +10214,12 @@
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 20
+            "tested": 23
           },
           {
             "age_group": "70-79",
             "count": 0,
-            "tested": 16
+            "tested": 19
           },
           {
             "age_group": "80+",
@@ -10241,7 +10241,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 126
+            "tested": 132
           },
           {
             "description": "Other",
@@ -10273,12 +10273,12 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 55
+            "tested": 59
           },
           {
             "description": "Female",
-            "count": 0,
-            "tested": 84
+            "count": 6,
+            "tested": 87
           },
           {
             "description": "Unknown/Left Blank",
@@ -10290,8 +10290,8 @@
     },
     {
       "County": "Tazewell",
-      "confirmed_cases": 19,
-      "total_tested": 734,
+      "confirmed_cases": 21,
+      "total_tested": 790,
       "demographics": {
         "age": [
           {
@@ -10302,32 +10302,32 @@
           {
             "age_group": "<20",
             "count": 0,
-            "tested": 6
+            "tested": 7
           },
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 34
+            "tested": 41
           },
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 47
+            "tested": 50
           },
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 34
+            "tested": 38
           },
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 47
+            "tested": 50
           },
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 46
+            "tested": 49
           },
           {
             "age_group": "70-79",
@@ -10343,8 +10343,8 @@
         "race": [
           {
             "description": "White",
-            "count": 15,
-            "tested": 81
+            "count": 18,
+            "tested": 85
           },
           {
             "description": "Black",
@@ -10354,7 +10354,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 195
+            "tested": 212
           },
           {
             "description": "Other",
@@ -10385,26 +10385,26 @@
         "gender": [
           {
             "description": "Male",
-            "count": 15,
-            "tested": 109
+            "count": 17,
+            "tested": 120
           },
           {
             "description": "Female",
             "count": 0,
-            "tested": 134
+            "tested": 143
           },
           {
             "description": "Unknown/Left Blank",
             "count": 0,
-            "tested": 34
+            "tested": 35
           }
         ]
       }
     },
     {
       "County": "Unassigned",
-      "confirmed_cases": 35,
-      "total_tested": 1042,
+      "confirmed_cases": 29,
+      "total_tested": 1062,
       "demographics": {
         "age": [
           {
@@ -10419,23 +10419,23 @@
           },
           {
             "age_group": "20-29",
-            "count": 11,
-            "tested": 86
+            "count": 6,
+            "tested": 82
           },
           {
             "age_group": "30-39",
             "count": 0,
-            "tested": 65
+            "tested": 69
           },
           {
             "age_group": "40-49",
-            "count": 8,
-            "tested": 77
+            "count": 7,
+            "tested": 80
           },
           {
             "age_group": "50-59",
-            "count": 6,
-            "tested": 79
+            "count": 7,
+            "tested": 80
           },
           {
             "age_group": "60-69",
@@ -10456,23 +10456,23 @@
         "race": [
           {
             "description": "White",
-            "count": 9,
-            "tested": 195
+            "count": 7,
+            "tested": 197
           },
           {
             "description": "Black",
             "count": 0,
-            "tested": 47
+            "tested": 50
           },
           {
             "description": "Left Blank",
-            "count": 10,
-            "tested": 99
+            "count": 8,
+            "tested": 98
           },
           {
             "description": "Other",
             "count": 0,
-            "tested": 34
+            "tested": 38
           },
           {
             "description": "Asian",
@@ -10481,8 +10481,8 @@
           },
           {
             "description": "Hispanic",
-            "count": 11,
-            "tested": 37
+            "count": 0,
+            "tested": 33
           },
           {
             "description": "NH/PI*",
@@ -10498,18 +10498,18 @@
         "gender": [
           {
             "description": "Male",
-            "count": 14,
-            "tested": 186
+            "count": 13,
+            "tested": 191
           },
           {
             "description": "Female",
             "count": 14,
-            "tested": 225
+            "tested": 229
           },
           {
             "description": "Unknown/Left Blank",
-            "count": 7,
-            "tested": 15
+            "count": 0,
+            "tested": 10
           }
         ]
       }
@@ -10630,7 +10630,7 @@
     {
       "County": "Vermilion",
       "confirmed_cases": 8,
-      "total_tested": 1014,
+      "total_tested": 1023,
       "demographics": {
         "age": [
           {
@@ -10646,7 +10646,7 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 54
+            "tested": 55
           },
           {
             "age_group": "30-39",
@@ -10656,7 +10656,7 @@
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 52
+            "tested": 53
           },
           {
             "age_group": "50-59",
@@ -10671,7 +10671,7 @@
           {
             "age_group": "70-79",
             "count": 0,
-            "tested": 47
+            "tested": 49
           },
           {
             "age_group": "80+",
@@ -10683,17 +10683,17 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 220
+            "tested": 222
           },
           {
             "description": "Black",
             "count": 0,
-            "tested": 14
+            "tested": 15
           },
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 108
+            "tested": 110
           },
           {
             "description": "Other",
@@ -10708,7 +10708,7 @@
           {
             "description": "Hispanic",
             "count": 0,
-            "tested": 10
+            "tested": 9
           },
           {
             "description": "NH/PI*",
@@ -10725,7 +10725,7 @@
           {
             "description": "Male",
             "count": 6,
-            "tested": 142
+            "tested": 146
           },
           {
             "description": "Female",
@@ -10743,7 +10743,7 @@
     {
       "County": "Wabash",
       "confirmed_cases": 2,
-      "total_tested": 254,
+      "total_tested": 266,
       "demographics": {
         "age": [
           {
@@ -10759,7 +10759,7 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 9
+            "tested": 10
           },
           {
             "age_group": "30-39",
@@ -10774,17 +10774,17 @@
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 17
+            "tested": 18
           },
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 8
+            "tested": 9
           },
           {
             "age_group": "70-79",
             "count": 0,
-            "tested": 11
+            "tested": 12
           },
           {
             "age_group": "80+",
@@ -10806,7 +10806,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 85
+            "tested": 89
           },
           {
             "description": "Other",
@@ -10843,7 +10843,7 @@
           {
             "description": "Female",
             "count": 0,
-            "tested": 51
+            "tested": 55
           },
           {
             "description": "Unknown/Left Blank",
@@ -10909,7 +10909,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 12
+            "tested": 13
           },
           {
             "description": "Black",
@@ -10919,7 +10919,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 10
+            "tested": 9
           },
           {
             "description": "Other",
@@ -10969,7 +10969,7 @@
     {
       "County": "Washington",
       "confirmed_cases": 2,
-      "total_tested": 119,
+      "total_tested": 122,
       "demographics": {
         "age": [
           {
@@ -11000,7 +11000,7 @@
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 9
+            "tested": 10
           },
           {
             "age_group": "60-69",
@@ -11022,7 +11022,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 29
+            "tested": 30
           },
           {
             "description": "Black",
@@ -11069,7 +11069,7 @@
           {
             "description": "Female",
             "count": 0,
-            "tested": 27
+            "tested": 28
           },
           {
             "description": "Unknown/Left Blank",
@@ -11082,7 +11082,7 @@
     {
       "County": "Wayne",
       "confirmed_cases": 0,
-      "total_tested": 234,
+      "total_tested": 237,
       "demographics": {
         "age": [
           {
@@ -11098,7 +11098,7 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 11
+            "tested": 12
           },
           {
             "age_group": "30-39",
@@ -11145,7 +11145,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 65
+            "tested": 66
           },
           {
             "description": "Other",
@@ -11182,7 +11182,7 @@
           {
             "description": "Female",
             "count": 0,
-            "tested": 53
+            "tested": 54
           },
           {
             "description": "Unknown/Left Blank",
@@ -11195,7 +11195,7 @@
     {
       "County": "White",
       "confirmed_cases": 0,
-      "total_tested": 160,
+      "total_tested": 163,
       "demographics": {
         "age": [
           {
@@ -11258,7 +11258,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 37
+            "tested": 38
           },
           {
             "description": "Other",
@@ -11295,7 +11295,7 @@
           {
             "description": "Female",
             "count": 0,
-            "tested": 36
+            "tested": 37
           },
           {
             "description": "Unknown/Left Blank",
@@ -11307,8 +11307,8 @@
     },
     {
       "County": "Whiteside",
-      "confirmed_cases": 29,
-      "total_tested": 1452,
+      "confirmed_cases": 30,
+      "total_tested": 1472,
       "demographics": {
         "age": [
           {
@@ -11334,22 +11334,22 @@
           {
             "age_group": "40-49",
             "count": 7,
-            "tested": 89
+            "tested": 91
           },
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 100
+            "tested": 101
           },
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 79
+            "tested": 82
           },
           {
             "age_group": "70-79",
-            "count": 6,
-            "tested": 64
+            "count": 7,
+            "tested": 66
           },
           {
             "age_group": "80+",
@@ -11360,8 +11360,8 @@
         "race": [
           {
             "description": "White",
-            "count": 0,
-            "tested": 16
+            "count": 8,
+            "tested": 19
           },
           {
             "description": "Black",
@@ -11370,8 +11370,8 @@
           },
           {
             "description": "Left Blank",
-            "count": 22,
-            "tested": 510
+            "count": 18,
+            "tested": 512
           },
           {
             "description": "Other",
@@ -11402,13 +11402,13 @@
         "gender": [
           {
             "description": "Male",
-            "count": 13,
-            "tested": 180
+            "count": 14,
+            "tested": 186
           },
           {
             "description": "Female",
             "count": 16,
-            "tested": 335
+            "tested": 337
           },
           {
             "description": "Unknown/Left Blank",
@@ -11420,8 +11420,8 @@
     },
     {
       "County": "Will",
-      "confirmed_cases": 1319,
-      "total_tested": 18168,
+      "confirmed_cases": 1387,
+      "total_tested": 18949,
       "demographics": {
         "age": [
           {
@@ -11431,97 +11431,97 @@
           },
           {
             "age_group": "<20",
-            "count": 21,
-            "tested": 209
+            "count": 24,
+            "tested": 221
           },
           {
             "age_group": "20-29",
-            "count": 109,
-            "tested": 820
+            "count": 118,
+            "tested": 857
           },
           {
             "age_group": "30-39",
-            "count": 185,
-            "tested": 1317
+            "count": 195,
+            "tested": 1365
           },
           {
             "age_group": "40-49",
-            "count": 287,
-            "tested": 1642
+            "count": 302,
+            "tested": 1724
           },
           {
             "age_group": "50-59",
-            "count": 284,
-            "tested": 1561
+            "count": 295,
+            "tested": 1634
           },
           {
             "age_group": "60-69",
-            "count": 199,
-            "tested": 1158
+            "count": 208,
+            "tested": 1218
           },
           {
             "age_group": "70-79",
-            "count": 121,
-            "tested": 752
+            "count": 127,
+            "tested": 786
           },
           {
             "age_group": "80+",
-            "count": 113,
-            "tested": 537
+            "count": 118,
+            "tested": 560
           }
         ],
         "race": [
           {
             "description": "White",
-            "count": 314,
-            "tested": 1847
+            "count": 345,
+            "tested": 1953
           },
           {
             "description": "Black",
-            "count": 268,
-            "tested": 911
+            "count": 283,
+            "tested": 956
           },
           {
             "description": "Left Blank",
-            "count": 543,
-            "tested": 4457
+            "count": 554,
+            "tested": 4631
           },
           {
             "description": "Other",
-            "count": 44,
-            "tested": 308
+            "count": 41,
+            "tested": 313
           },
           {
             "description": "Asian",
-            "count": 39,
-            "tested": 153
+            "count": 43,
+            "tested": 164
           },
           {
             "description": "Hispanic",
-            "count": 109,
-            "tested": 312
+            "count": 118,
+            "tested": 335
           },
           {
             "description": "NH/PI*",
             "count": 0,
-            "tested": 0
+            "tested": 8
           },
           {
             "description": "AI/AN**",
             "count": 0,
-            "tested": 0
+            "tested": 6
           }
         ],
         "gender": [
           {
             "description": "Male",
-            "count": 654,
-            "tested": 3264
+            "count": 680,
+            "tested": 3432
           },
           {
             "description": "Female",
-            "count": 665,
-            "tested": 4512
+            "count": 707,
+            "tested": 4713
           },
           {
             "description": "Unknown/Left Blank",
@@ -11534,7 +11534,7 @@
     {
       "County": "Williamson",
       "confirmed_cases": 10,
-      "total_tested": 1079,
+      "total_tested": 1097,
       "demographics": {
         "age": [
           {
@@ -11560,7 +11560,7 @@
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 59
+            "tested": 61
           },
           {
             "age_group": "50-59",
@@ -11570,12 +11570,12 @@
           {
             "age_group": "60-69",
             "count": 0,
-            "tested": 50
+            "tested": 52
           },
           {
             "age_group": "70-79",
             "count": 0,
-            "tested": 27
+            "tested": 29
           },
           {
             "age_group": "80+",
@@ -11587,7 +11587,7 @@
           {
             "description": "White",
             "count": 0,
-            "tested": 93
+            "tested": 94
           },
           {
             "description": "Black",
@@ -11597,7 +11597,7 @@
           {
             "description": "Left Blank",
             "count": 0,
-            "tested": 282
+            "tested": 287
           },
           {
             "description": "Other",
@@ -11629,25 +11629,25 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 122
+            "tested": 123
           },
           {
             "description": "Female",
             "count": 8,
-            "tested": 230
+            "tested": 232
           },
           {
             "description": "Unknown/Left Blank",
             "count": 0,
-            "tested": 31
+            "tested": 34
           }
         ]
       }
     },
     {
       "County": "Winnebago",
-      "confirmed_cases": 99,
-      "total_tested": 4000,
+      "confirmed_cases": 101,
+      "total_tested": 4025,
       "demographics": {
         "age": [
           {
@@ -11658,32 +11658,32 @@
           {
             "age_group": "<20",
             "count": 0,
-            "tested": 62
+            "tested": 64
           },
           {
             "age_group": "20-29",
-            "count": 17,
-            "tested": 186
+            "count": 18,
+            "tested": 188
           },
           {
             "age_group": "30-39",
             "count": 14,
-            "tested": 260
+            "tested": 261
           },
           {
             "age_group": "40-49",
             "count": 17,
-            "tested": 259
+            "tested": 262
           },
           {
             "age_group": "50-59",
-            "count": 22,
-            "tested": 272
+            "count": 23,
+            "tested": 274
           },
           {
             "age_group": "60-69",
             "count": 14,
-            "tested": 220
+            "tested": 222
           },
           {
             "age_group": "70-79",
@@ -11699,23 +11699,23 @@
         "race": [
           {
             "description": "White",
-            "count": 46,
-            "tested": 178
+            "count": 48,
+            "tested": 180
           },
           {
             "description": "Black",
-            "count": 20,
-            "tested": 26
+            "count": 21,
+            "tested": 27
           },
           {
             "description": "Left Blank",
-            "count": 15,
-            "tested": 1215
+            "count": 12,
+            "tested": 1220
           },
           {
             "description": "Other",
             "count": 0,
-            "tested": 22
+            "tested": 24
           },
           {
             "description": "Asian",
@@ -11724,8 +11724,8 @@
           },
           {
             "description": "Hispanic",
-            "count": 17,
-            "tested": 29
+            "count": 19,
+            "tested": 31
           },
           {
             "description": "NH/PI*",
@@ -11741,13 +11741,13 @@
         "gender": [
           {
             "description": "Male",
-            "count": 43,
-            "tested": 543
+            "count": 44,
+            "tested": 545
           },
           {
             "description": "Female",
-            "count": 56,
-            "tested": 919
+            "count": 57,
+            "tested": 929
           },
           {
             "description": "Unknown/Left Blank",
@@ -11759,8 +11759,8 @@
     },
     {
       "County": "Woodford",
-      "confirmed_cases": 9,
-      "total_tested": 260,
+      "confirmed_cases": 10,
+      "total_tested": 281,
       "demographics": {
         "age": [
           {
@@ -11776,7 +11776,7 @@
           {
             "age_group": "20-29",
             "count": 0,
-            "tested": 13
+            "tested": 14
           },
           {
             "age_group": "30-39",
@@ -11786,12 +11786,12 @@
           {
             "age_group": "40-49",
             "count": 0,
-            "tested": 18
+            "tested": 20
           },
           {
             "age_group": "50-59",
             "count": 0,
-            "tested": 18
+            "tested": 20
           },
           {
             "age_group": "60-69",
@@ -11801,12 +11801,12 @@
           {
             "age_group": "70-79",
             "count": 0,
-            "tested": 8
+            "tested": 10
           },
           {
             "age_group": "80+",
             "count": 0,
-            "tested": 7
+            "tested": 8
           }
         ],
         "race": [
@@ -11822,8 +11822,8 @@
           },
           {
             "description": "Left Blank",
-            "count": 7,
-            "tested": 73
+            "count": 8,
+            "tested": 81
           },
           {
             "description": "Other",
@@ -11855,12 +11855,12 @@
           {
             "description": "Male",
             "count": 0,
-            "tested": 39
+            "tested": 44
           },
           {
             "description": "Female",
             "count": 0,
-            "tested": 42
+            "tested": 45
           },
           {
             "description": "Unknown/Left Blank",
