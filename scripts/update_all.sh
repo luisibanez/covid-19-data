@@ -27,7 +27,7 @@ git add ../data
 git commit -m "Update data to $(date +%F)."
 
 git checkout master
-git merge --no-ff data_imports
+git merge --no-ff data_imports -m "Merge with data_imports branch"
 
 #
 #  Update remote repository in Github.
@@ -39,7 +39,7 @@ git push origin master
 #  Update "covid-19-illinois-data" repository
 #
 cd "${ILLINOIS_REPO}"
-cp "${DATA_DIR}/*.csv" "${ILLINOIS_REPO}"
+cp "${DATA_DIR}"/*.csv "${ILLINOIS_REPO}"
 git pull origin master
 git add ./*.csv
 git commit -m "Update data to $(date +%F)."
